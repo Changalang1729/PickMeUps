@@ -8,3 +8,4 @@ This will be the codebase for the website for Pick Me Ups.
 THINGS DONE:
 1) started the flask template
 
+Changing things to know whether or not this is correct yet
