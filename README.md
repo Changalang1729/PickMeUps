@@ -4,3 +4,7 @@ This will be the codebase for the website for Pick Me Ups.
 3) We will include the matching process on getting them for older to younger people.
 4) We will have a form to have younger people sign up 
 
+
+THINGS DONE:
+1) started the flask template
+
