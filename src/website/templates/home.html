@@ -4,28 +4,49 @@
             <meta charset="utf-8">
             <title>PickMeUps</title>
         </head>
+        <style> 
+            .column {
+                float: left;
+                width: 50%;
+            }
+
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+        </style>
         <body>
             {% extends "template.html" %}
             {% block content %}
-            <div>
-                <h3> Covid19 </h3>
-                <p> What Covid 19 really is... </p>
+           
+            <div class = "row" style="border: thick solid black">
+                <div class= "column" >
+                    <h3> Covid19 </h3>
+                    <p> pic </p>
+                </div>
+
+                <div class= "column" >
+                    <h3> Text </h3>
+                    <p> What Covid 19 really is... </p>
+                </div>
+                <br style="clear:both;"/>
             </div>
 
-            <div>
+            <div style="border: thick solid black">
                 <h3> Aim of Our Site </h3>
                 <p> We want to help the world </h3>
             </div>
             
-            <div> 
+            <div style="border: thick solid black"> 
                 <h3> Search
             </div>
             
-            <div> 
+            <div style="border: thick solid black"> 
                 <h3> Donate
             </div>
 
-            <div> 
+            <div style="border: thick solid black"> 
                 <h3> Stats
             </div>
         {% endblock %}
