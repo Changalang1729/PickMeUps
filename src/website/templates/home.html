@@ -19,7 +19,13 @@
         <body>
             {% extends "template.html" %}
             {% block content %}
-           
+
+            <div style="border: thick solid black", background-image: src="{{ url_for('static', filename='images/home_images/hh.jpeg') }}" >
+                <h1> PickMeUps </h1>
+                <p> Bring the Community Together </h3>
+            </div>
+
+
             <div class = "row" style="border: thick solid black">
                 <div class= "column" >
                     <h3> Covid19 </h3>
@@ -29,6 +35,7 @@
                 <div class= "column" >
                     <h3> Text </h3>
                     <p> What Covid 19 really is... </p>
+
                 </div>
                 <br style="clear:both;"/>
             </div>
