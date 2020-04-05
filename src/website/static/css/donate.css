@@ -1,11 +1,34 @@
-.column {
+/* .column {
     float: left;
     width: 50%;
-}
-  
+} */
+
 /* Clear floats after the columns */
 .row:after {
     content: "";
     display: table;
     clear: both;
+    position:relative;
+}
+
+.column {
+  float:left;
+  padding: 10px;
+  height: 300px;
+}
+
+
+.left {
+  /* grid-column: auto/span 2;
+  white-space:nowrap; */
+  display:inline-block;
+  width:25%;
+}
+
+.right {
+  /* grid-column: auto/span 2;
+  white-space:nowrap; */
+  position:absolute;
+  display:inline-block;
+  width:75%;
 }
