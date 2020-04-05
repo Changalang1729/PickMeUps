@@ -31,15 +31,16 @@
 
 .column.left {
   width: auto;
+  height: 210px;
   margin-left: 20%;
-  margin-right: 2%;
-  margin-top: .5%;
+  margin-right: 7.5%;
   display:inline-block;
 }
 
 .column.right {
   width: auto;
   margin-right: 17%;
+  margin-top: 1.75%;
   display:inline-block;
   position: absolute;
 }
