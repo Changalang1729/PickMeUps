@@ -1,34 +1,14 @@
-/* .column {
-    float: left;
-    width: 50%;
-} */
-
-/* Clear floats after the columns */
-/*.row:after {
-    content: "";
-    display: table;
-    clear: both;
-    position:relative;
+.column {
+  float: left;
+  width: 50%;
+  display: grid;
 }
 
-.column {
-  float:left;
-  padding: 10px;
-  height: 300px;
-}*/
-
-/*
 .left {
-  display:inline-block;
-  width:25%;
-}*/
+  width: 40%;
+}
 
-/*.right {
-  position:absolute;
-  display:inline-block;
-  width:75%;
-}*/
-
+<<<<<<< HEAD
 .column.left {
   width: auto;
   height: 210px;
@@ -43,18 +23,26 @@
   margin-top: 1.75%;
   display:inline-block;
   position: absolute;
+=======
+.right {
+  width: 60%;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-  position: relative;
+.inside {
+  width: 50%;
+>>>>>>> b6c5c202ba347c8f7c98296fbd106442bd2edb64
 }
+
+div {
+  margin-bottom:50px;
+}
+
 
 @media screen and (max-width: 600px) {
-    .column.left, .column.right {
-    width: 100%;
+    .column {
+      width: 100%;
+    }
+    .inside {
+      width: 100%;
     }
 }
