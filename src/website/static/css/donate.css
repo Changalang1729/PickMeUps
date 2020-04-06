@@ -20,6 +20,17 @@ div {
   margin-bottom:50px;
 }
 
+@media screen and (max-width: 1200px){
+  .left {
+    width: 60%;
+  }
+  .right {
+    width: 40%;
+  }
+  .inside {
+    width: 100%;
+  }
+}
 
 @media screen and (max-width: 600px) {
     .column {
