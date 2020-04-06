@@ -16,7 +16,8 @@
 }
 
 div {
-  margin-bottom:50px;
+  margin-top:25px;
+  margin-bottom:25px;
 }
 
 .row {
@@ -71,8 +72,8 @@ div {
 } */
 
 @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
+    .row {
+      grid-template-columns: auto;
     }
     .inside {
       width: 100%;
