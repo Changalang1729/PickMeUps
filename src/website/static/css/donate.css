@@ -8,12 +8,29 @@
   width: 40%;
 }
 
+<<<<<<< HEAD
+.column.left {
+  width: auto;
+  height: 210px;
+  margin-left: 20%;
+  margin-right: 7.5%;
+  display:inline-block;
+}
+
+.column.right {
+  width: auto;
+  margin-right: 17%;
+  margin-top: 1.75%;
+  display:inline-block;
+  position: absolute;
+=======
 .right {
   width: 60%;
 }
 
 .inside {
   width: 50%;
+>>>>>>> b6c5c202ba347c8f7c98296fbd106442bd2edb64
 }
 
 div {
