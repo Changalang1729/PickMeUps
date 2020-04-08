@@ -1,6 +1,30 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
+# TODO: get the relevant information from the item element and create an Item object
+def getItemFromHtml(elem):
+    pass
+
+# TODO: get the relevant information from the shop element and create an Shop object
+def getShopFromHtml(elem):
+    pass
+
+def getItemsForCategory():
+    all_items = []
+    moreItems = True
+    while moreItems:
+        items = driver.find_elements_by_class_name('rmq-b2d27d72')
+        all_items.extend(items)
+        main_content = driver.find_elements_by_class_name('rmq-9aaf6e9d')[0]
+        page_bar = main_content.find_element_by_xpath("following-sibling::*")
+        arrow = page_bar.find_elements_by_tag_name('svg')[-1]
+        arrow_style = arrow.get_attribute("style")
+        moreItems = (arrow_style == '') or 'cursor: not-allowed;' not in arrow_style
+        if moreItems:
+            next_page_link = arrow.find_element_by_xpath("..")
+            next_page_link.click()
+    return all_items
+
 def processShop():
     more_link = driver.find_element_by_xpath("//a[@href='#more-departments']")
     more_link.click()
@@ -8,12 +32,8 @@ def processShop():
     needed_categories = [category for category in all_categories if category.tag_name == 'a']
     for category in needed_categories:
         category.click()
-        items = driver.find_elements_by_class_name('rmq-b2d27d72')
-        main_content = driver.find_elements_by_class_name('rmq-9aaf6e9d')[0]
-        page_bar = main_content.find_element_by_xpath("following-sibling::*")
-        print(page_bar)
-        arrow = page_bar.find_element_by_tag_name('svg')
-        print(arrow)
+        getItemsForCategory()
+
 
 try:
     url = 'https://www.instacart.com/grocery-delivery/tustin-ca'
