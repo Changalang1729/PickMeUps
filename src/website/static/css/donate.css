@@ -16,6 +16,13 @@
   background-size: 100% 100%;
 }
 
+.info{
+  margin-left: 25%;
+  margin-right: 25%;
+  justify-content: center;
+  align-items: center;
+}
+
 .row {
   display: grid;
   grid-template-columns: auto auto;
@@ -31,6 +38,15 @@
   align-items: center;
   display: flex;
   height: 230px;
+}
+
+.p1 { 
+  font-family: Georgia, Times, "Times New Roman", 
+  serif; font-size: 20px; 
+  font-style: normal; 
+  font-variant: normal; 
+  line-height: 21.4px; 
+  /*align-content: center;*/
 }
 
 @media screen and (max-width: 600px) {
