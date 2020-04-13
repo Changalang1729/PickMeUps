@@ -46,7 +46,7 @@ def processSubDepartments():
         processSubDepartment()
         break
 
-urls = ['https://www.ralphs.com/pl/snacks/01020']
+urls = ['https://www.ralphs.com/d/beverages', 'https://www.ralphs.com/d/breakfast', 'https://www.ralphs.com/pl/snacks/01020', 'https://www.ralphs.com/pl/packaged-bread/01016', 'https://www.ralphs.com/pl/canned-foods/01006', ]
 options = webdriver.ChromeOptions()
 options.add_argument("--disable-extensions")
 options.binary_location = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
