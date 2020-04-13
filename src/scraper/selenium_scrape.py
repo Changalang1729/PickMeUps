@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 def getItemFromHtml(elem):
     pass
 
-# TODO: get the relevant information from the shop element and create an Shop object
+# TODO: get the relevant information from the shop element and create a Shop object
 def getShopFromHtml(elem):
     pass
 
