@@ -57,13 +57,12 @@ body, html {
 
 .row {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 30% 70%;
   grid-auto-rows: 1fr;
-  margin-left: 15%;
 }
 
 .left {
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   display: flex;
   padding-top: 5%;
