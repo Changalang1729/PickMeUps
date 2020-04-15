@@ -4,25 +4,24 @@
      <meta charset="utf-8">
      <title>PickMeUps</title>
      <meta name="viewport" content="width=device-width, initial-scale=1">
-     
- 
+
+
      <link rel="stylesheet" href="{{ url_for('static',filename='css/template.css') }}">
  </head>
- 
- 
+
+
    <body>
      <div class="navbar-ul">
          <ul id="navbar-list" class="list-inline">
-             <li style="float:right"><a href="{{ url_for('home') }}">Home</a></li>
-             <li style="float:right"><a href="{{ url_for('about') }}">About</a></li>
-             <li style="float:right"><a href="{{ url_for('donate') }}">Donate</a></li>
+             <li><a href="{{ url_for('stats') }}">Stats</a></li>
+             <li><a href="{{ url_for('donate') }}">Donate</a></li>
+             <li><a href="{{ url_for('about') }}">About</a></li>
+             <li class="active"><a href="{{ url_for('home') }}">Home</a></li>
          </ul>
      </div>
- 
+
  {% block content %}
  {% endblock %}
- 
+
   </body>
  </html>
-
- 

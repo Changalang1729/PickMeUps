@@ -6,8 +6,16 @@
             <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/donate.css') }}" />
         </head>
         <body>
+          <!-- {% extends "template.html" %} -->
+           <!-- {% block content %} -->
+           <ul id="navbar-list" class="list-inline">
+               <li><a href="{{ url_for('stats') }}">Stats</a></li>
+               <li><a href="{{ url_for('donate') }}">Donate</a></li>
+               <li><a href="{{ url_for('about') }}">About</a></li>
+               <li class="active"><a href="{{ url_for('home') }}">Home</a></li>
+           </ul>
         		<div class = "header"> </div>
-        		<div class = "info"> 
+        		<div class = "info">
         			<br>
         			<p align= "center" class = "p1"> Currently, the United States projects to have 60,000 - 160,000 ventilators available and is suffering from a dearth of PPE. In other countries such as Spain and Italy, up to 20% of all cases of COVID were healthcare professionals. Please, in the time of utter darkness, let us show some heart and compassion in the darkness and donate to those protecting and treating us. </p>
         			<br>
@@ -56,6 +64,7 @@
                 <input type="number" id="amount" name="amount" required><br><br>
                 <input type="submit" value="Submit">
             </form> -->
+             <!-- {% endblock %} -->
         </body>
        <!--  <script type="text/javascript">
             function submitForm(){
