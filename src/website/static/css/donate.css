@@ -1,5 +1,5 @@
 .inside {
-  width: 60%;
+  width: 65%;
 }
 
 * {
@@ -25,7 +25,7 @@
 
 .row {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 40% 60%;
   grid-auto-rows: 1fr;
 }
 
@@ -33,12 +33,16 @@
   justify-content: flex-end;
   align-items: center;
   display: flex;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 .right {
+  margin-right: -30%
+  padding-top: 1%;
+  padding-bottom: 5%;
   justify-content: center;
   align-items: center;
   display: flex;
-/*  height: 350px; */
 }
 
 .p1 { 
