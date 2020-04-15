@@ -17,7 +17,7 @@ body {
 .header {
   width: 100%;
   height: 600px;
-  background: url('/static/images/heart.jpeg');
+  background: url('/static/images/heroes.jpg');
   background-size: 100% 100%;
 }
 
@@ -35,34 +35,37 @@ body {
 }
 
 .left {
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
   display: flex;
 }
 .right {
-  margin-top: 25px;
-  margin-bottom: 25px;
+  /* margin-top: 25px;
+  margin-bottom: 25px; */
   justify-content: center;
   align-items: center;
   display: flex;
-  /* height: 230px; */
+  /* height: 350px; */
 }
 
 .p1 {
   font-family: Georgia, Times, "Times New Roman",
-  serif; font-size: 20px;
+  serif; font-size: 16px;
   font-style: normal;
   font-variant: normal;
-  line-height: 21.4px;
+  line-height: 16.4px;
+  color: #151B54;
   /*align-content: center;*/
 }
 .h1 {
   font-family: Georgia, Times, "Times New Roman",
-  serif; font-size: 36px;
+  serif; font-size: 32px;
   font-style: normal;
   font-variant: normal;
   font-weight: 700;
-  line-height: 38.4px;
+  line-height: 32.4px;
+  margin-bottom: 8px;
+  color: #151B54;
 }
 .h2 {
  font-family: "Brush Script MT", cursive;
@@ -82,11 +85,13 @@ body {
 }
 .h4 {
  font-family: Georgia, Times, "Times New Roman",
- serif; font-size: 20px;
+ serif; font-size: 18px;
  font-style: normal;
  font-variant: normal;
- font-weight: 700;
- line-height: 21.4px;
+ font-weight: 200;
+ line-height: 18.4px;
+ margin-bottom: 24px;
+ color: #151B54;
 }
 .subtitle{
  font-family: "Brush Script MT", cursive;
@@ -100,6 +105,7 @@ body {
 @media screen and (max-width: 600px) {
     .row {
       grid-template-columns: auto;
+      grid-auto-rows: 1fr;
     }
     .inside {
       width: 100%;
