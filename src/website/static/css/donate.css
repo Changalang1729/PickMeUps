@@ -38,7 +38,7 @@
   justify-content: center;
   align-items: center;
   display: flex;
-  height: 350px;
+/*  height: 350px; */
 }
 
 .p1 { 
@@ -57,7 +57,7 @@
   font-variant: normal;
   font-weight: 700; 
   line-height: 32.4px;
-  margin-bottom: 8px;
+  margin-bottom: 1.5%;
   color: #151B54;
 }
 .h2 { 
@@ -83,7 +83,7 @@
  font-variant: normal;
  font-weight: 200; 
  line-height: 18.4px;
- margin-bottom: 24px;
+ margin-bottom: 4%;
  color: #151B54;
 }
 .subtitle{
