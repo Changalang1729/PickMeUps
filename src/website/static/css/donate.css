@@ -47,6 +47,46 @@
   font-variant: normal; 
   line-height: 21.4px; 
   /*align-content: center;*/
+}             
+.h1 { 
+  font-family: Georgia, Times, "Times New Roman",
+  serif; font-size: 36px;
+  font-style: normal; 
+  font-variant: normal;
+  font-weight: 700; 
+  line-height: 38.4px;
+}
+.h2 { 
+ font-family: "Brush Script MT", cursive;
+ font-size: 26px; 
+ font-style: normal; 
+ font-variant: normal;
+ font-weight: 700; 
+ line-height: 26.4px;
+}
+.h3 { 
+ font-family: "Brush Script MT", cursive;
+ font-size: 22px; 
+ font-style: normal; 
+ font-variant: normal;
+ font-weight: 700; 
+ line-height: 2.4px;
+}
+.h4 { 
+ font-family: Georgia, Times, "Times New Roman",
+ serif; font-size: 20px;
+ font-style: normal; 
+ font-variant: normal;
+ font-weight: 700; 
+ line-height: 21.4px;
+}
+.subtitle{
+ font-family: "Brush Script MT", cursive;
+ font-size: 22px;
+ font-style: normal;
+ font-variant: normal;
+ font-weight: 700;
+ line-height: 24.4px;
 }
 
 @media screen and (max-width: 600px) {
