@@ -46,21 +46,15 @@ def processSubDepartments():
         processSubDepartment()
         break
 
-urls = ['https://www.ralphs.com/d/beverages', 'https://www.ralphs.com/d/breakfast', 'https://www.ralphs.com/pl/snacks/01020', 'https://www.ralphs.com/pl/packaged-bread/01016', 'https://www.ralphs.com/pl/canned-foods/01006', ]
+url = 'https://www.ralphs.com'
 options = webdriver.ChromeOptions()
 options.add_argument("--disable-extensions")
 options.binary_location = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
 chrome_driver_binary = '/usr/local/bin/chromedriver'
 driver = webdriver.Chrome(chrome_driver_binary, options=options)
 driver.implicitly_wait(5)
-# driver.get(url)
-
-# menu = driver.find_element_by_xpath("//button[@data-testid='SiteMenu-HamburgerMenu--Button']")
-# menu.click()
-# departments = driver.find_elements_by_xpath("//button[@class='py-12 SiteMenu-Button bg-default-50 pl-48 body-l not-italic text-left w-full hover:underline font-500']")
-# for department in departments:
-#     department.click()
-#     processSubDepartments()
-#     break
-for url in urls:
-    processSubDepartment(url)
+driver.get(url)
+button = driver.find_elements_by_xpath("//a[@class='kds-Button kds-Button--primary DynamicTooltip--Button--Confirm float-right']")
+print(len(button))
+# for url in urls:
+#     processSubDepartment(url)
