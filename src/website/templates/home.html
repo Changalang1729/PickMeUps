@@ -4,23 +4,21 @@
             <meta charset="utf-8">
             <title>PickMeUps</title>
         </head>
-        <!-- <link rel="stylesheet" href="{{ url_for('static',filename='css/home.css') }}"> -->
-        <!-- <style>
-            .column {
-                float: left;
-                width: 50%;
-            }
-
-            .row:after {
-                content: "";
-                display: table;
-                clear: both;
-            }
-        </style> -->
+        <link rel="stylesheet" href="{{ url_for('static',filename='css/template.css') }}">
         <body>
-            {% extends "template.html" %}
-            {% block content %}
-            <div class = "header"> </div>
+          <div class="hero-image">
+            <ul id="navbar-list" class="list-inline">
+              <li><a href="{{ url_for('stats') }}">Stats</a></li>
+              <li><a href="{{ url_for('donate') }}">Donate</a></li>
+              <li><a href="{{ url_for('about') }}">About</a></li>
+              <li class="active"><a href="{{ url_for('home') }}">Home</a></li>
+            </ul>
+            <div class="hero-text">
+              <b> <span style='font-size:90px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
+              <h1 class ="title">Make A Donation</h1>
+            </div>
+          </div>
+            <!-- <div class = "header"> </div> -->
             <div style="border: thick solid black" >
                 <h1> PickMeUps </h1>
                 <p> Bring the Community Together </h3>
@@ -57,6 +55,5 @@
             <div style="border: thick solid black">
                 <h3> Stats
             </div>
-        {% endblock %}
         </body>
 </html>

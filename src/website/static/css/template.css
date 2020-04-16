@@ -5,6 +5,30 @@
   border: 0px;
 }
 
+/* The hero image */
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/static/images/gloves.jpg');
+
+  /* Set a specific height */
+  height: 100%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 70%;
+  left: 32.5%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
 body {
    height:100vh;
    font-family: 'Open Sans', sans-serif;
@@ -68,7 +92,8 @@ body {
 }
 
 li a:hover:not(.active) {
-  background-color: #bbb;
+  /* background-color: #bbb; */
+  border-bottom: 3px solid white;
   /* color: white; */
 }
 
@@ -82,7 +107,8 @@ li:last-child {
 }
 
  .active {
-     background-color: #4CAF50; */
+     /* background-color: #4CAF50; */
+     border-bottom: 3px solid white;
  }
 
  @media only screen and (max-width: 1094px) {
