@@ -9,6 +9,13 @@
   border: 0px;
 }
 
+@font-face {
+  font-family: 'DINNextLTPro-Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('/static/fonts/Linotype - DINNextLTPro-Regular.otf') format('opentype');
+}
+
 body, html {
    height:100%;
    font-family: 'Open Sans', sans-serif;
@@ -22,7 +29,7 @@ a.image-link {
 
 /* The hero image */
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/static/images/family.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/static/images/gloves.jpg');
 
   /* Set a specific height */
   height: 100%;
@@ -81,12 +88,13 @@ a.image-link {
 }
 
 .p1 {
-  font-family: Georgia, Times, "Times New Roman",
+  font-family:  "DINNextLTPro-Regular",
   serif; font-size: 16px;
   font-style: normal;
   font-variant: normal;
-  line-height: 16.4px;
+  line-height: 19px;
   color: #151B54;
+  word-spacing: 2px;
   /*align-content: center;*/
 }
 
@@ -128,17 +136,18 @@ a.image-link {
  line-height: 2.4px;
 }
 .h4 {
- font-family: Georgia, Times, "Times New Roman",
- serif; font-size: 18px;
+ font-family: "DINNextLTPro-Regular",
+ serif; font-size: 20px;
  font-style: normal;
  font-variant: normal;
  font-weight: 200;
  line-height: 18.4px;
  margin-bottom: 4%;
- color: #151B54;
+ /* color: #151B54; */
+ color: gray;
 }
 .subtitle{
- font-family: "Brush Script MT", cursive;
+ font-family: "Times New Roman";
  font-size: 22px;
  font-style: normal;
  font-variant: normal;
@@ -172,7 +181,7 @@ ul {
     margin:12px 0;
     width: 20%; */
     list-style-type: none;
-    background-color: black;
+    background: transparent;
     display: block;
     float: right;
     justify-content: flex-end;
@@ -186,6 +195,13 @@ li a {
  text-align: center;
  padding: 14px 16px;
  text-decoration: none;
+ font-family: Georgia, Times, "Times New Roman",
+ serif; font-size: 18px;
+ font-style: normal;
+ font-variant: normal;
+ font-weight: 200;
+ line-height: 18.4px;
+ /* margin-right: 25%; */
 }
 
 li a:hover:not(.active) {
