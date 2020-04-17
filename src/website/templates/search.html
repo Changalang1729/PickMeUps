@@ -4,19 +4,19 @@
             <meta charset="utf-8">
             <title>PickMeUps</title>
         </head>
+        <link rel="stylesheet" href="{{ url_for('static',filename='css/search.css') }}">
         <body>
           <div class="hero-image">
             <ul id="navbar-list" class="list-inline">
-              <li class="active"><a href="{{ url_for('stats') }}">Stats</a></li>
+              <!-- <li><a href="{{ url_for('stats') }}">Stats</a></li> -->
               <li><a href="{{ url_for('about') }}">About</a></li>
               <li><a href="{{ url_for('donate') }}">Donate</a></li>
-              <li><a href="{{ url_for('search') }}">Search</a></li>
+              <li class="active"><a href="{{ url_for('search') }}">Search</a></li>
               <li><a href="{{ url_for('home') }}">Home</a></li>
             </ul>
             <div class="hero-text">
               <b> <span style='font-size:90px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
-              <h1 class ="title" style="margin-bottom:5%">PickMeUps</h1>
-              <h1 class ="subtitle">Bringing the Community Together</h1>
+              <h1 class ="title" style="margin-bottom:5%">Search Groceries</h1>
             </div>
           </div>
         </body>

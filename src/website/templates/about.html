@@ -1,26 +1,40 @@
  <!DOCTYPE html>
      <html lang="en" dir="ltr">
-         <h1> About Us </h1>
+     <head>
+         <meta charset="utf-8">
+         <title>PickMeUps</title>
+     </head>
+     <link rel="stylesheet" href="{{ url_for('static',filename='css/about.css') }}">
          <body>
-        {% extends "template.html" %}
-            {% block content %}
-         <div> 
+           <div class="hero-image">
+             <ul id="navbar-list" class="list-inline">
+               <!-- <li><a href="{{ url_for('stats') }}">Stats</a></li> -->
+               <li class="active"><a href="{{ url_for('about') }}">About</a></li>
+               <li><a href="{{ url_for('donate') }}">Donate</a></li>
+               <li><a href="{{ url_for('search') }}">Search</a></li>
+               <li><a href="{{ url_for('home') }}">Home</a></li>
+             </ul>
+             <div class="hero-text">
+               <b> <span style='font-size:90px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
+               <h1 class ="title" style="margin-bottom:5%">About Us</h1>
+             </div>
+           </div>
+         <div>
              <h3> Why are we doing this? </h3>
-             <p> The main purpose of this website is to help limit the spread of corona in our neighborhood communities. 
-             By allowing people to check what's available at stores nearby, we're able to limit the time that we spend outside and 
-             our chances of contracting or spreading the diseases. Additionally, by reaching out to some Harvard Medical Students, 
-             we were able to provide more concrete facts to demystify the enigmatic disease.  
+             <p> The main purpose of this website is to help limit the spread of corona in our neighborhood communities.
+             By allowing people to check what's available at stores nearby, we're able to limit the time that we spend outside and
+             our chances of contracting or spreading the diseases. Additionally, by reaching out to some Harvard Medical Students,
+             we were able to provide more concrete facts to demystify the enigmatic disease.
              </p>
 
-         </div> 
+         </div>
          <div>
              <h3> Showing that the world does care </h3>
-             <p> With coronavirus, there has been an extreme uptick in race-related crimes. With President Trump previously calling it the 
+             <p> With coronavirus, there has been an extreme uptick in race-related crimes. With President Trump previously calling it the
              Chinese virus, it has grown increasingly difficult for us as a community to not persecute Asian Americans. Here, however, we have
              the ability to show that humanity does have hope — that we do care. With our donate sheet and requests sheet, we can come together
-             as a community and help each other in difficult time. 
+             as a community and help each other in difficult time.
              </p>
         </div>
-         {% endblock %}
    </body>
      </html>
