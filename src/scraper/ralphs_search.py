@@ -6,9 +6,9 @@ import csv
 import os.path
 
 ZIP_CODE = '92602'
-# 'Milk', 'Eggs', 'Paper towels', 'Bread', 'Flour', 'Toilet paper', 'Chips', 'fruits', 'Soap', 'Body wash', 'Shampoo', 'Pasta', 'Rice', 'Water','Meat','Wine','Medicine', 'Thermometer', 'Cough medicine', 'vegetables',
-# didn't work: 
-SEARCH_ITEMS = ['Tylenol', 'Advil']
+# 'Milk', 'Eggs', 'Paper towels', 'Bread', 'Flour', 'Toilet paper', 'Chips', 'fruits', 'Soap', 'Body wash', 'Shampoo', 'Pasta', 'Rice', 'Water', 'Meat','Wine','Thermometer', 'Cough medicine', 'vegetables', 'Tylenol', 'Advil', 'Medicine'
+# didn't work: 'Medicine',
+SEARCH_ITEMS = []
 DISTANCE_THRESHOLD = 7
 
 def processProduct(product, store_name, item, first):
@@ -106,6 +106,7 @@ try:
     seen_stores = set()
     # add scraped stores here
     seen_stores.add('13321 Jamboree Rd, Tustin, CA')
+    seen_stores.add('14400 Culver Dr, Irvine, CA')
     first = True
     while True:
         if not first:
@@ -155,7 +156,7 @@ try:
         # close the green box
         driver.find_element_by_xpath("//button[@class='kds-Toast-closeButton text-default-900 rounded-full p-0 border-none']").click()
         # PUT THIS BACK!
-        time.sleep(10)
+        # time.sleep(10)
         print('done')
         seen_stores.add(store_address)
         processStore(store_address)

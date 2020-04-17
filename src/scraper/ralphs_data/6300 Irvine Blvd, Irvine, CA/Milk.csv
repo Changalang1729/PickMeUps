@@ -1,0 +1,765 @@
+Store,Product,Size,Price,Url,Category
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ralphs 2% Reduced Fat Milk,1 gal,2.99,https://www.kroger.com/product/images/medium/front/0001111041376,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ralphs Vitamin D Whole Milk,1 gal,3.39,https://www.kroger.com/product/images/medium/front/0001111040119,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Milk 2% Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweetened Vanilla Almond Milk,1/2 gal,2.99,https://www.kroger.com/product/images/medium/front/0002529300136,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Whole Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Lactose Free 2% Reduced Fat Milk,0.5 gal,3.69,https://www.kroger.com/product/images/medium/front/0001111082556,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500463,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Fairlife 2% Reduced Fat Ultra Filtered Lactose Free Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0085631200277,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Unsweetened Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger®  Vitamin D Whole Milk,1 pt,1.59,https://www.kroger.com/product/images/medium/front/0001111050274,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nesquik Chocolate Low Fat Milk,6 bottles / 8 fl oz,5.69,https://www.kroger.com/product/images/medium/front/0002800073309,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger®  2% Reduced Fat Milk,1 qt,1.99,https://www.kroger.com/product/images/medium/front/0001111050323,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger®  Vitamin D Whole Milk,1 qt,1.99,https://www.kroger.com/product/images/medium/front/0001111050322,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Vanilla Almond Milk,1/2 gal,2.99,https://www.kroger.com/product/images/medium/front/0002529300099,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Lactose Free Vitamin D Milk,1/2 gal,3.69,https://www.kroger.com/product/images/medium/front/0001111085333,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger®  2% Reduced Fat Milk,1 pt,1.59,https://www.kroger.com/product/images/medium/front/0001111050277,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Vanilla Milk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157005621,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Fairlife Chocolate 2% Reduced Fat Ultra-Filtered Lactose Free Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0085631200279,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger®  Low Fat Chocolate Milk,1 pt,1.29,https://www.kroger.com/product/images/medium/front/0001111050279,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid Lactose Free 2% Reduced Fat Milk,96 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004138309072,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Lactose Free Calcium Enriched 2% Milk,1/2 gal,3.69,https://www.kroger.com/product/images/medium/front/0001111081818,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ralphs 2% Reduced Fat Milk,1/2 Gallon,2.19,https://www.kroger.com/product/images/medium/front/0001111041375,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ralphs Vitamin D Whole Milk,1/2 gal,2.19,https://www.kroger.com/product/images/medium/front/0001111040118,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Fairlife Fat Free Ultra Filtered Lactose Free Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0085631200275,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Dark Chocolate Almond Milk,1/2 gal,2.99,https://www.kroger.com/product/images/medium/front/0002529300119,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Lactose Free Calcium Enriched Fat Free Milk,1/2 gal,3.69,https://www.kroger.com/product/images/medium/front/0001111085314,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid Lactose Free Whole Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004138309036,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nesquik Chocolate Flavored Low Fat Milk,14 fl oz,1.99,https://www.kroger.com/product/images/medium/front/0002800077212,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid 100% Lactose Free 2% Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004138309010,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid Lactose Free 1% Low Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004138309022,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Fairlife Whole Ultra-Filtered Lactose Free Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081162002016,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Milk 2% Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid Lactose Free Whole Milk,96 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004138309073,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Whole Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ralphs 1% Lowfat Milk,1 gal,2.99,https://www.kroger.com/product/images/medium/front/0001111041906,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500463,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Original Almond &amp; Cashew Protein Milk,1/2 gal,3.99,https://www.kroger.com/product/images/medium/front/0002529300380,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Unsweetened Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Lactose Free 1% Low Fat Milk,1/2 gal,3.69,https://www.kroger.com/product/images/medium/front/0001111089282,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Oat Plain Plant-Based Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001698,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nesquik Strawberry Lowfat Milk,14 fl oz,1.99,https://www.kroger.com/product/images/medium/front/0002800051575,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Almond Milk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111078577,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Grassfed Whole Vitamin D Milk,1/2 gal,5.79,https://www.kroger.com/product/images/medium/front/0074236500707,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Oat Plain Extra Creamy Plant-Based Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001703,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dairy Pure Whole Vitamin D Milk,1 gal,4.99,https://www.kroger.com/product/images/medium/front/0004190007638,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Lowfat Chocolate Milk,1 qt,1.79,https://www.kroger.com/product/images/medium/front/0001111050326,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Vanilla Almond Milk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111078578,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Thai Kitchen Unsweetened Coconut Milk,13.66 fl oz,3.29,https://www.kroger.com/product/images/medium/front/0073762801150,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweetened Coconut Milk,64 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0002529300228,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dairy Pure 2% Reduced Fat Milk,1/2 gal,3.29,https://www.kroger.com/product/images/medium/front/0004190007663,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweetened Cashew Milk,64 fl oz,3.77,https://www.kroger.com/product/images/medium/front/0002529300275,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Vanilla Oat Drink,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001699,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Reduced Sugar Vanilla Milk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157010964,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dairy Pure 2% Reduced Fat Milk,1 gal,4.99,https://www.kroger.com/product/images/medium/front/0004190007661,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Fat Free Skim Milk,1 qt,1.99,https://www.kroger.com/product/images/medium/front/0001111050325,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dairy Pure Vitamin D Whole Milk,1/2 gal,3.29,https://www.kroger.com/product/images/medium/front/0004190007641,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ralphs Fat Free Skim Milk,1 gal,2.99,https://www.kroger.com/product/images/medium/front/0001111042317,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Meyenberg Vitamin D Goat Milk,1 Quart,4.69,https://www.kroger.com/product/images/medium/front/0007290400003,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Califia Farms Pure Toasted Coconut Almond Milk Blend,48 fl oz,4.49,https://www.kroger.com/product/images/medium/front/0085290900342,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Chocolate Protein Almond &amp; Cashew Milk,1/2 gal,3.99,https://www.kroger.com/product/images/medium/left/0002529300451,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Fairlife Whole Milk,52 fl oz,4.49,https://www.kroger.com/product/images/medium/front/0081162002138,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger®  1% Lowfat Milk,1 qt,1.99,https://www.kroger.com/product/images/medium/front/0001111050324,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Whole Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic DHA Omega-3 Vitamin-D Milk,1/2 gal,5.49,https://www.kroger.com/product/images/medium/front/0074236526497,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Oat Plain Plant-Based Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001698,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Original Unsweetened Almond Milk,96 fl oz,3.59,https://www.kroger.com/product/images/medium/front/0002529300377,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Oat Plain Extra Creamy Plant-Based Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001703,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweetened Vanilla Almond Milk,96 fl oz,3.59,https://www.kroger.com/product/images/medium/front/0002529300379,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reddi Wip Non-Dairy Almond Milk Whipped Topping,6 oz,3.99,https://www.kroger.com/product/images/medium/front/0007027249129,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid Lactose Free Calcium Fortified Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004138309074,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Milk 2% Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Light Vanilla Almond Milk,1/2 gal,2.99,https://www.kroger.com/product/images/medium/front/0002529300217,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweetened Almond &amp; Coconut Milk Blend,1/2 gal,2.99,https://www.kroger.com/product/images/medium/front/0002529300242,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic 2% Reduced Fat Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0074236526475,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500463,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ralphs 1% Lowfat Milk,Half Gallon,2.19,https://www.kroger.com/product/images/medium/front/0001111041905,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid Lactose Free Fat Free Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004138309043,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Lactose Free 1% Chocolate Milk,1/2 gal,3.69,https://www.kroger.com/product/images/medium/front/0001111079809,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Unsweetened Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Original Coconut Milk,1/2 gal,3.69,https://www.kroger.com/product/images/medium/front/0002529300122,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ralphs Fat Free Skim Milk,1/2 gal,2.19,https://www.kroger.com/product/images/medium/front/0001111042316,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Promised Land Dairy Very Berry Strawberry Whole Milk,28 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0076352800022,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Thai Kitchen Unsweetened Coconut Milk,13.66 fl oz,3.29,https://www.kroger.com/product/images/medium/front/0073762801150,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid Lactose Free Fat Free Milk,96 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004138309070,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic DHA Omega-3 2% Reduced Fat Milk,1/2 gal,5.49,https://www.kroger.com/product/images/medium/front/0074236526485,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Vitamin D Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0074236526495,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nesquik Protein Power Chocolate Milk,14 fl oz,2.29,https://www.kroger.com/product/images/medium/front/0002800027639,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Whole Chocolate Milk,1/2 gal,3.99,https://www.kroger.com/product/images/medium/front/0001111050075,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dairy Pure 1% Low Fat Milk,1/2 Gallon,3.29,https://www.kroger.com/product/images/medium/front/0004190007681,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simply Original Unsweetened Almond Milk,46 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0002500012006,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Milk 2% Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Whole Vitamin D Milk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0001111050483,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Whole Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dairy Pure 1% Low Fat Milk,1 gal,4.99,https://www.kroger.com/product/images/medium/front/0004190007679,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nesquik Chocolate Low Fat Milk,6 bottles / 8 fl oz,5.69,https://www.kroger.com/product/images/medium/front/0002800073309,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simply Vanilla Almond Milk,46 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0002500012008,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Medium Roast Unsweetened Ice Coffee Beverage,48 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004850002238,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organic Valley Grass-Fed Organic Whole Milk,1/2 gal,5.99,https://www.kroger.com/product/images/medium/front/0009396600585,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Mocha Frappuccino Chilled Coffee Drink,4 bottles / 9.5 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0001200010092,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Lactose-Free 2% Milk,1/2 gal,5.99,https://www.kroger.com/product/images/medium/front/0074236526402,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic 1% Lowfat Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0074236526465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Evaporated Milk,12 fl oz,0.99,https://www.kroger.com/product/images/medium/front/0001111088301,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Vanilla Frappuccino Glass Bottles,4 bottles / 9.5 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0001200010114,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Carnation Evaporated Milk,12 fl oz,2.19,https://www.kroger.com/product/images/medium/front/0005000001011,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Almond &amp; Cashew Unsweetened Vanilla Milk,65 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0003663207269,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Promised Land Dairy 2% Reduced Fat Midnight Chocolate Milk,28 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0076352800017,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Oat Plain Plant-Based Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001698,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Vitamin D Milk,1 gal,7.99,https://www.kroger.com/product/images/medium/front/0074236500679,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Bolthouse Farms Original Non-Dairy Protein Plant Milk,48 fl oz,4.69,https://www.kroger.com/product/images/medium/front/0007146401939,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simply Original Almond  Milk,46 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0002500012004,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Coffee Frappuccino,4 bottles / 9.5 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0001200010151,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Snickers Lowfat Chocolate Milk,14 fl oz,2.29,https://www.kroger.com/product/images/medium/front/0002800032858,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stremicks Heritage Foods Organic 1% Low Fat Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0005385903474,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ 2% Reduced Fat Milk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0001111050482,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Mountain Dairy Chocolate Milk,1/2 Gallon,3.79,https://www.kroger.com/product/images/medium/front/0001111050599,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Fat Free Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0074236526455,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organic Valley Omega-3 Whole Milk,1/2 gal,5.99,https://www.kroger.com/product/images/medium/front/0009396600445,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",REBBL Reishi Chocolate Super Herb Powered Coconut-Milk Elixir,12 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0085814800309,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Broguiere's Dairy Homogenized Milk,1 Quart,4.19,https://www.kroger.com/product/images/medium/front/0069389010311,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic 2% Reduced Fat Milk,1 gal,7.99,https://www.kroger.com/product/images/medium/front/0074236500678,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Growing Years Whole Milk,1/2 gal,5.79,https://www.kroger.com/product/images/medium/front/0074236500760,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Snickers Lowfat Chocolate Milk,14 fl oz,2.29,https://www.kroger.com/product/images/medium/front/0002800032858,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bar,1.55 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000240,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Fat-Free Milk,1 gal,7.99,https://www.kroger.com/product/images/medium/front/0074236500676,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Milk 2% Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Good Karma Vanilla Flax Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0082946200119,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Whole Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Whole Vitamin D Milk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0001111050483,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nesquik Chocolate Low Fat Milk,6 bottles / 8 fl oz,5.69,https://www.kroger.com/product/images/medium/front/0002800073309,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organic Valley Grass-Fed 2% Reduced Fat Milk,1/2 gal,5.99,https://www.kroger.com/product/images/medium/front/0009396600586,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Medium Roast Unsweetened Ice Coffee Beverage,48 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004850002238,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",TruMoo 1% Lowfat Chocolate Milk,1/2 gal,3.99,https://www.kroger.com/product/images/medium/front/0004190007430,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ 2% Reduced Fat Milk,1 gal,6.49,https://www.kroger.com/product/images/medium/front/0001111050488,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stumptown Chocolate Cold Brew Coffee with Milk,10 fl oz,3.5,https://www.kroger.com/product/images/medium/front/0085518600650,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Mocha Frappuccino Chilled Coffee Drink,4 bottles / 9.5 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0001200010092,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® CarbMaster™ Chocolate Nonfat Milk Beverage,1/2 gal,3.79,https://www.kroger.com/product/images/medium/front/0001111050769,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Farms Organic Vitamin D Whole Milk,1 qt,2.99,https://www.kroger.com/product/images/medium/front/0007085200024,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic 2% Reduced Fat Milk,1 gal,7.99,https://www.kroger.com/product/images/medium/front/0074236500678,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Vanilla Frappuccino Glass Bottles,4 bottles / 9.5 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0001200010114,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organic Valley Omega-3 Whole Milk,1/2 gal,5.99,https://www.kroger.com/product/images/medium/front/0009396600445,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stremicks Heritage Foods Organic 1% Low Fat Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0005385903474,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ 2% Reduced Fat Milk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0001111050482,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Coffee Frappuccino,4 bottles / 9.5 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0001200010151,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",REBBL Reishi Chocolate Super Herb Powered Coconut-Milk Elixir,12 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0085814800309,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",8th Continent Original Soy Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0005385907066,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dairy Pure Fat Free Skim Milk,1/2 gal,3.29,https://www.kroger.com/product/images/medium/front/0004190007704,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Skim Fat Free Milk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0001111050487,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® CarbMaster™ Original Nonfat Milk Beverage,1/2 gal,3.79,https://www.kroger.com/product/images/medium/front/0001111050767,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Farms Organic Fat Free Vitamin A &amp; D Milk,1 qt,2.99,https://www.kroger.com/product/images/medium/front/0007085200027,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Private Selection™ Sea Salt Caramel Milk,1 qt,3.49,https://www.kroger.com/product/images/medium/front/0001111001673,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Farms Organic 1% Low Fat Vitamin A &amp; D Milk,1 qt,2.99,https://www.kroger.com/product/images/medium/front/0007085200026,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Broguiere's Dairy Homogenized Milk,1 Quart,4.19,https://www.kroger.com/product/images/medium/front/0069389010311,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",8th Continent Original Soy Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0005385907066,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bar,1.55 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000240,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cocoa Metro Belgian Reduced Fat Chocolate Milk,32 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0086168200000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate with Almonds Candy Bar,1.45 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000241,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Chocolate 1%  Milk with DHA Omega-3,1/2 gal,5.49,https://www.kroger.com/product/images/medium/front/0074236500403,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Milk 2% Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lactaid 100% Lactose Free 1% Lowfat Milk,1 qt,2.99,https://www.kroger.com/product/images/medium/front/0004138309075,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Whole Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Good Karma Original Flax Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0082946200118,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S Milk Chocolate Bars,6 ct / 1.55 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400029005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Farms Organic 2% Reduced Fat Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0007085200013,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Farms Organic 2% Reduced Fat Milk,1 qt,2.99,https://www.kroger.com/product/images/medium/front/0007085200025,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Private Selection™ Sea Salt Caramel Milk,1 qt,3.49,https://www.kroger.com/product/images/medium/front/0001111001673,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Snack Size Candy Bars 8 Count,8 ct / 0.45,1.99,https://www.kroger.com/product/images/medium/front/0003400007015,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® CarbMaster™ Vanilla Nonfat Milk Beverage,1/2 gal,3.79,https://www.kroger.com/product/images/medium/front/0001111050768,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organic Valley 2% Reduced Fat Milk,64 fl oz,5.49,https://www.kroger.com/product/images/medium/front/0009396600440,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Farms Organic Fat Free Vitamin A &amp; D Milk,1 qt,2.99,https://www.kroger.com/product/images/medium/front/0007085200027,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,https://www.kroger.com/product/images/medium/front/0003400029105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ 1% Lowfat Milk,1 gal,6.49,https://www.kroger.com/product/images/medium/front/0001111050492,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stremicks Heritage Foods 2% Organic Reduced Fat Milk,.5 gal,4.99,https://www.kroger.com/product/images/medium/front/0005385903438,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stremicks Heritage Foods Vitamin D Organic Milk,.5 gal,4.99,https://www.kroger.com/product/images/medium/front/0005385903410,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Crunch Fun Size Bars,10 oz,3.0,https://www.kroger.com/product/images/medium/front/0009990050589,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Good Karma Vanilla Flax Milk,1/2 gal,4.99,https://www.kroger.com/product/images/medium/front/0082946200119,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Farms Organic Vitamin D Whole Milk,1 qt,2.99,https://www.kroger.com/product/images/medium/front/0007085200024,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organic Valley Omega-3 Whole Milk,1/2 gal,5.99,https://www.kroger.com/product/images/medium/front/0009396600445,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Broguiere's Dairy 2% Milk,1 Quart,4.19,https://www.kroger.com/product/images/medium/front/0069389010211,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organic Valley 2% Reduced Fat Omega-3 Milk,1/2 gal,5.99,https://www.kroger.com/product/images/medium/front/0009396600446,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Sweetened Condensed Milk,14 oz,1.79,https://www.kroger.com/product/images/medium/front/0001111088310,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cacique Ranchero Queso Fresco Part Skim Milk Cheese,10 oz,2.5,https://www.kroger.com/product/images/medium/front/0007456200100,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk Duds Chocolate &amp; Caramel Candy Theater Box,5 oz,0.88,https://www.kroger.com/product/images/medium/front/0001070002152,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Whole Milk Shredded Mozzarella Cheese,8 oz,2.5,https://www.kroger.com/product/images/medium/front/0001111001798,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S Milk Chocolate Bars,6 ct / 1.55 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400029005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Eagle Brand Sweetened Condensed Milk,14 oz,3.49,https://www.kroger.com/product/images/medium/front/0065272910113,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Snack Size Candy Bars 8 Count,8 ct / 0.45,1.99,https://www.kroger.com/product/images/medium/front/0003400007015,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Almond Breeze Unsweetened Original Almondmilk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157005670,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500463,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Whoppers Original Malted Milk Balls Theater Box,5 oz,0.88,https://www.kroger.com/product/images/medium/front/0001070002440,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Unsweetened Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweet Almondmilk,1/2 gal,2.99,https://www.kroger.com/product/images/medium/front/0002529300149,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bar,1.55 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000240,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Almond Breeze Unsweetened Vanilla Almondmilk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157005618,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Toll House Milk Chocolate Chip Morsels,11.5 oz,3.99,https://www.kroger.com/product/images/medium/front/0002800021760,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",La Lechera Sweetened Condensed Milk,14 oz,1.99,https://www.kroger.com/product/images/medium/front/0002800051780,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,https://www.kroger.com/product/images/medium/front/0003400029105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reese's Snack Size Peanut Butter Cups Candy Milk Chocolate 8 Count,4.4 oz,1.99,https://www.kroger.com/product/images/medium/front/0003400040568,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Sargento Off The Block Whole Milk Mozzarella Shredded Cheese,8 oz,3.99,https://www.kroger.com/product/images/medium/front/0004610040010,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Original Almondmilk,1/2 gal,2.99,https://www.kroger.com/product/images/medium/front/0002529300098,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate with Almonds Candy Bar,1.45 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000241,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Peanut Milk Chocolate Candies,1.74 oz,1.29,https://www.kroger.com/product/images/medium/front/0004000000032,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Extra Large Milk Chocolate Bar,4.4 oz,1.5,https://www.kroger.com/product/images/medium/front/0003400017038,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Original Almondmilk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157005617,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Crunch Fun Size Bars,10 oz,3.0,https://www.kroger.com/product/images/medium/front/0009990050589,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate French Vanilla Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000032275,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger®  Whole Milk Ricotta Cheese Tub,15 oz,3.49,https://www.kroger.com/product/images/medium/front/0001111048888,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Milk Chocolate Sharing Size,10.7 oz,2.99,https://www.kroger.com/product/images/medium/front/0004000051294,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Unsweetened Almondmilk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111084593,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kit Kat Wafer Candy Bars Snack Size Milk Chocolate,3.92 oz,1.99,https://www.kroger.com/product/images/medium/front/0003400008788,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Betty Crocker Milk Chocolate Brownie Mix,18.4 oz,1.49,https://www.kroger.com/product/images/medium/front/0001600043058,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Carnation Evaporated Lowfat 2% Milk,12 fl oz,2.19,https://www.kroger.com/product/images/medium/front/0005000015991,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger Milk Chocolate Baking Chips,11.5 oz,1.99,https://www.kroger.com/product/images/medium/front/0001111004748,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Carnation Evaporated Lowfat 2% Milk,12 fl oz,2.19,https://www.kroger.com/product/images/medium/front/0005000015991,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Thai Kitchen Unsweetened Coconut Milk,13.66 fl oz,3.29,https://www.kroger.com/product/images/medium/front/0073762801150,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate with Almonds King Size Bar,2.6 oz,1.99,https://www.kroger.com/product/images/medium/front/0003400000221,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S Milk Chocolate Bars,6 ct / 1.55 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400029005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate with Almonds Extra Large Bar,4.25 oz,1.5,https://www.kroger.com/product/images/medium/front/0003400017115,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Snack Size Candy Bars 8 Count,8 ct / 0.45,1.99,https://www.kroger.com/product/images/medium/front/0003400007015,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Hazelnut Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000032290,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bar,1.55 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000240,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Plain Soymilk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111042950,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,https://www.kroger.com/product/images/medium/front/0003400029105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Protein Original Soymilk,1/2 gal,3.69,https://www.kroger.com/product/images/medium/front/0002529360039,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Snickers Milk Chocolate Sharing Size Candy Bar,3.29 oz,2.19,https://www.kroger.com/product/images/medium/front/0004000000263,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's King Size Milk Chocolate Bar,2.6 oz,1.99,https://www.kroger.com/product/images/medium/front/0003400000220,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate with Almonds Candy Bar,1.45 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000241,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Carnation Evaporated Milk,5 fl oz,1.49,https://www.kroger.com/product/images/medium/front/0005000001051,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Heath Milk Chocolate English Toffee Candy Bar,1.4 oz,1.29,https://www.kroger.com/product/images/medium/front/0001070006080,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Unsweetened Almondmilk,1/2 gal,2.99,https://www.kroger.com/product/images/medium/front/0001111087980,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Crunch Fun Size Bars,10 oz,3.0,https://www.kroger.com/product/images/medium/front/0009990050589,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Galbani Whole Milk Ricotta Cheese,15 oz,2.99,https://www.kroger.com/product/images/medium/front/0007403010300,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Milk Chocolate Candies,1.69 oz,1.29,https://www.kroger.com/product/images/medium/front/0004000000031,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Premium Coconut Milk,13.5 Fl Oz,1.79,https://www.kroger.com/product/images/medium/front/0001111090414,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reese's Take 5 Candy Bar,1.5 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000386,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reese's Miniature Peanut Butter Cups Candy Share Pack Milk Chocolate,10.5 oz,3.49,https://www.kroger.com/product/images/medium/front/0003400043227,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Peanut Milk Chocolate Candies,19.2 oz,5.99,https://www.kroger.com/product/images/medium/front/0004000051121,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Peanut Butter Milk Chocolate Sharing Size,9.6 oz,2.99,https://www.kroger.com/product/images/medium/front/0004000051301,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweetened Organic Soymilk,1/2 gal,3.69,https://www.kroger.com/product/images/medium/front/0002529360023,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Unsweetened Almond Milk,32 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0004157005413,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pillsbury Creamy Supreme Milk Chocolate Frosting,16 oz,1.3,https://www.kroger.com/product/images/medium/front/0005150076040,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger®  Whole Milk Ricotta Cheese Tub,30 oz,5.29,https://www.kroger.com/product/images/medium/front/0001111048987,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(MAX 3) Kroger® Creamy Coconut Milk Liquid Hand Soap,7.5 fl oz,1.19,https://www.kroger.com/product/images/medium/front/0004126038057,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Unsweetened Vanilla Almondmilk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111086750,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Almond Breeze Hint of Honey Vanilla Almondmilk,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157010993,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey’s Kisses Candy Share Pack Milk Chocolate,10.8 oz,3.49,https://www.kroger.com/product/images/medium/front/0003400014058,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milky Way Milk Chocolate Candy Bar,1.84 oz,1.29,https://www.kroger.com/product/images/medium/front/0004000042206,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500463,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Giant Milk Chocolate Bar,7 oz,2.99,https://www.kroger.com/product/images/medium/front/0003400019045,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Unsweetened Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee mate Sugar Free French Vanilla Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000084811,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S Milk Chocolate Bars,6 ct / 1.55 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400029005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Almond Breeze Unsweetened Original Almondmilk,96 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004157011019,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Snack Size Candy Bars 8 Count,8 ct / 0.45,1.99,https://www.kroger.com/product/images/medium/front/0003400007015,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(MAX 3) Kroger® Creamy Coconut Milk Liquid Hand Soap,7.5 fl oz,1.19,https://www.kroger.com/product/images/medium/front/0004126038057,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Enfamil Infant Formula Milk-based Powder With Iron,12.5 oz,19.99,https://www.kroger.com/product/images/medium/front/0030087136542,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ghirardelli Milk Chocolate Premium Baking Chips,11.5 oz,4.99,https://www.kroger.com/product/images/medium/front/0074759964012,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bar,1.55 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000240,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Milk Chocolate Candy Movie Theater Box,3.1 oz,1.0,https://www.kroger.com/product/images/medium/front/0004000049752,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Unsweetened Vanilla Almondmilk,96 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004157011008,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Raisinets Milk Chocolate Covered Raisins,3.5 oz,1.0,https://www.kroger.com/product/images/medium/front/0009990060198,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,https://www.kroger.com/product/images/medium/front/0003400029105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Snack Pack Milk Chocolate &amp; Fudge Milk Chocolate Swirl Pudding Cups,12 ct / 3.25 oz,3.29,https://www.kroger.com/product/images/medium/front/0002700041924,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Vanilla Soymilk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111042952,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Califia Farms Pure Unsweetened Almondmilk,48 fl oz,4.49,https://www.kroger.com/product/images/medium/front/0085290900330,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Crunch Fun Size Bars,10 oz,3.0,https://www.kroger.com/product/images/medium/front/0009990050589,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stonyfield Smooth &amp; Creamy Whole Milk Plain Yogurt,32 oz,4.79,https://www.kroger.com/product/images/medium/front/0005215900001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Vanilla Almond Milk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0002529300397,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Symphony Extra Large Creamy Milk Chocolate with Almonds and Toffee Bar,4.25 oz,1.5,https://www.kroger.com/product/images/medium/front/0003400017714,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Unsweetened Coconut Milk,32 fl oz,1.79,https://www.kroger.com/product/images/medium/front/0001111084185,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Betty Crocker Rich &amp; Creamy Milk Chocolate Frosting,16 oz,2.29,https://www.kroger.com/product/images/medium/front/0001600045900,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kit Kat Wafer Candy Bar Milk Chocolate,4.5 oz,1.5,https://www.kroger.com/product/images/medium/front/0003400017612,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reese's STICKS Milk Chocolate Peanut Butter &amp; Crispy Wafer Candy Bar,1.5 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000152,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Milk Chocolate Candy Family Size,19.2 oz,5.99,https://www.kroger.com/product/images/medium/front/0004000051123,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kit Kat Wafer Candy Bar Milk Chocolate,4.5 oz,1.5,https://www.kroger.com/product/images/medium/front/0003400017612,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Protein Vanilla Soymilk,64 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0002529360027,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Milk &amp; Cookies Whole Milk Greek Yogurt,4 ct / 5.3 oz,3.49,https://www.kroger.com/product/images/medium/front/0081829001672,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pepperidge Farm Milano Milk Chocolate Cookies,6 oz,3.49,https://www.kroger.com/product/images/medium/front/0001410009997,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reese's and Kit Kat Milk Chocolate Candy Miniatures Assortment Party Pack,35 oz,8.99,https://www.kroger.com/product/images/medium/front/0003400099983,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Duncan Hines Milk Chocolate Creamy Home-Style Frosting,16 oz,2.49,https://www.kroger.com/product/images/medium/front/0064420900439,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,https://www.kroger.com/product/images/medium/front/0003400029105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestlé Rich Milk Chocolate Hot Cocoa Mix,6 ct / 0.71 oz,0.99,https://www.kroger.com/product/images/medium/front/0005000039758,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Vanilla Cashewgurt Probiotic Plant-Based Yogurt,24 oz,5.99,https://www.kroger.com/product/images/medium/front/0081455802061,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Vanilla Almond Milk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0002529300397,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Vanilla Bean Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802029,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(MAX 3) Softsoap Liquid Hand Soap Milk And Honey,7.5 oz,1.79,https://www.kroger.com/product/images/medium/front/0007418229094,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Boar's Head White Whole Milk American Cheese,,7.99,https://www.kroger.com/product/images/medium/front/0027635000000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Natural Bliss Vanilla Almond Milk Creamer,32 fl oz,5.49,https://www.kroger.com/product/images/medium/front/0005000022489,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Cherry Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802063,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Vanilla Almond Milk,32 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0004157006836,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stonyfield Organic Vanilla Whole Milk Probiotic Yogurt,32 oz,4.79,https://www.kroger.com/product/images/medium/front/0005215900002,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Milk Chocolate Candies Fun Size Packs,6 ct,1.0,https://www.kroger.com/product/images/medium/front/0004000049841,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Lemon Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802030,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Carnation Evaporated Fat Free Milk,12 fl oz,2.19,https://www.kroger.com/product/images/medium/front/0005000016011,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Flavor Snacks Small Dog Treats,24 oz,3.19,https://www.kroger.com/product/images/medium/front/0007910090237,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Swiss Miss Milk Chocolate Hot Cocoa Mix,8 ct / 1.38 oz,3.49,https://www.kroger.com/product/images/medium/front/0007092047633,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Strawberry Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802032,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Almond Breeze Unsweetened Vanilla Almondmilk Coconutmilk Blend,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157010991,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chaokoh Coconut Milk,13.5 fl oz,2.39,https://www.kroger.com/product/images/medium/front/0004473801843,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pepperidge Farm Sausalito Milk Chocolate Macadamia Cookies,7.2 oz,3.49,https://www.kroger.com/product/images/medium/front/0001410007712,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Small Dog Biscuits,24 oz,3.19,https://www.kroger.com/product/images/medium/front/0007910090202,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Dairy-Free Raspberry Coconut Milk Yogurt Alternative,5.3 oz,2.49,https://www.kroger.com/product/images/medium/front/0074447300011,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Boar's Head Yellow Whole Milk American Cheese,,7.99,https://www.kroger.com/product/images/medium/front/0027634100000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pepperidge Farm Sausalito Milk Chocolate Macadamia Cookies,7.2 oz,3.49,https://www.kroger.com/product/images/medium/front/0001410007712,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Original Almond Milk,32 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0004157006827,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,https://www.kroger.com/product/images/medium/front/0003400029105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Dairy-Free Raspberry Coconut Milk Yogurt Alternative,5.3 oz,2.49,https://www.kroger.com/product/images/medium/front/0074447300011,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Giant Milk Chocolate Bar with Almonds,6.8 oz,2.99,https://www.kroger.com/product/images/medium/front/0003400019141,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Heath Milk Chocolate English Toffee Bar Miniatures Share Pack,10.2 oz,3.49,https://www.kroger.com/product/images/medium/front/0001070006225,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Chips,11.5 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400014600,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Medium Dog Biscuits,24 oz,3.19,https://www.kroger.com/product/images/medium/front/0007910051410,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S KISSES Candy Milk Chocolate,35.8 oz,8.99,https://www.kroger.com/product/images/medium/front/0003400013480,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Boar's Head Yellow Whole Milk American Cheese,,7.99,https://www.kroger.com/product/images/medium/front/0027634100000,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Vanilla Cashewgurt Probiotic Plant-Based Yogurt,24 oz,5.99,https://www.kroger.com/product/images/medium/front/0081455802061,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk&nbsp;Strawberry Almond Milk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0002529300396,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Light Coconut Milk,13.5 fl oz,1.89,https://www.kroger.com/product/images/medium/front/0001111085732,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Haagen-Dazs Gluten Free Vanilla Milk Chocolate Almond Ice Cream Bars 3 Count,3 ct / 3 fl oz,4.79,https://www.kroger.com/product/images/medium/front/0007457003310,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Vanilla Bean Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802029,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Dairy-Free Coconut Milk Key Lime Yogurt Alternative,5.3 oz,2.49,https://www.kroger.com/product/images/medium/front/0074447300046,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Symphony Creamy Milk Chocolate Extra Large Candy Bar,4.25 oz,1.5,https://www.kroger.com/product/images/medium/front/0003400017514,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pepperidge Farm Milano Double Milk Chocolate Cookies,7.5 oz,3.49,https://www.kroger.com/product/images/medium/front/0001410004743,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Cherry Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802063,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cacique Panela Part Skim Cheese Milk,10 oz,2.5,https://www.kroger.com/product/images/medium/front/0007456200102,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate &amp; Reese's Pieces Candy Bar,1.55 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400022874,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Dairy Free French Vanilla Coconut Milk Creamer,32 fl oz,4.49,https://www.kroger.com/product/images/medium/front/0074447394124,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Lemon Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802030,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reese's THiNS Peanut Butter Cups Milk Chocolate Candy,7.37 oz,3.49,https://www.kroger.com/product/images/medium/front/0003400046060,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Unsweetened Almondmilk,32 fl oz,1.79,https://www.kroger.com/product/images/medium/front/0001111078505,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk&nbsp;Dark Chocolate Coconut Almond Milk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0002529300399,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pepperidge Farm Montauk Soft Baked Milk Chocolate Cookies,8.6 oz,3.49,https://www.kroger.com/product/images/medium/front/0001410008900,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reese's Miniature Peanut Butter Cups Candy Family Pack Milk Chocolate,17.6 oz,7.99,https://www.kroger.com/product/images/medium/front/0003400043224,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Unsweetened Almondmilk,32 fl oz,1.79,https://www.kroger.com/product/images/medium/front/0001111078505,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Lite Coconut Milk,13.5 Fl Oz,1.79,https://www.kroger.com/product/images/medium/front/0001111090415,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S KISSES Candy Milk Chocolate,35.8 oz,8.99,https://www.kroger.com/product/images/medium/front/0003400013480,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk&nbsp;Peach Almond Milk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0002529300398,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate with Almond Nuggets,10.1 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400001871,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Flipz Milk Chocolate Covered Pretzels,7.5 oz,2.5,https://www.kroger.com/product/images/medium/front/0087218100014,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Giant Milk Chocolate Bar with Almonds,6.8 oz,2.99,https://www.kroger.com/product/images/medium/front/0003400019141,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Plain Whole Milk Greek Yogurt,32 oz,4.79,https://www.kroger.com/product/images/medium/front/0001111004587,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500463,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",GALBANI WHOLE MILK MOZZARELLA CHEESE BALL,16 oz,6.49,https://www.kroger.com/product/images/medium/front/0007403000065,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Unsweetened Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Whoppers Malted Milk Balls,12 oz,3.49,https://www.kroger.com/product/images/medium/front/0001070050180,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Palmolive Ultra Soft Touch Almond Milk &amp; Blueberry Scent Dish Liquid,20 fl oz,2.19,https://www.kroger.com/product/images/medium/front/0005800014037,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Dairy Free French Vanilla Coconut Milk Creamer,32 fl oz,4.49,https://www.kroger.com/product/images/medium/front/0074447394124,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Toblerone Swiss Milk Chocolate Bar,3.52 oz,2.49,https://www.kroger.com/product/images/medium/front/0007022101111,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Original Almondmilk,96 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004157005770,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Vanilla Almondmilk,96 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004157005772,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Topped with Cocoa Wafer Bites,0.7 oz,1.5,https://www.kroger.com/product/images/medium/front/0000980000073,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kit Kat Miniatures Milk Chocolate Wafer Candy Bars,10.1 oz,3.49,https://www.kroger.com/product/images/medium/front/0003400022670,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Natural Bliss Coconut Milk Liquid Coffee Creamer,32 fl oz,5.49,https://www.kroger.com/product/images/medium/front/0005000067059,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Almond Breeze Unsweetened Original Almondmilk Coconutmilk Blend,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157009915,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cacique Cotija Part Skim Milk Cheese,10 oz,3.39,https://www.kroger.com/product/images/medium/front/0007456200110,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Murray's® Whole Milk Ricotta Cheese,1 lb,3.99,https://www.kroger.com/product/images/medium/front/0081794401249,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lindt CLASSIC RECIPE Milk Chocolate Bar,4.4 oz,2.99,https://www.kroger.com/product/images/medium/front/0003746608323,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Reese's Miniature Peanut Butter Cups Candy Family Pack Milk Chocolate,17.6 oz,7.99,https://www.kroger.com/product/images/medium/front/0003400043224,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Mountain High Original Whole Milk Vanilla Yoghurt,32 oz,2.99,https://www.kroger.com/product/images/medium/front/0007527000161,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Lowfat Strawberry Milk,8 fl oz,0.99,https://www.kroger.com/product/images/medium/front/0074236520865,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Minis Milk Chocolate Bar,4 oz,1.5,https://www.kroger.com/product/images/medium/front/0004000053955,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk Duds Candy,10 oz,3.49,https://www.kroger.com/product/images/medium/front/0001070053100,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Thai Kitchen Lite Coconut Milk,13.66 fl oz,3.29,https://www.kroger.com/product/images/medium/front/0073762801160,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lindt CLASSIC RECIPE Milk Chocolate Bar,4.4 oz,2.99,https://www.kroger.com/product/images/medium/front/0003746608323,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lindt LINDOR Milk Chocolate Truffles,5.9 oz,4.49,https://www.kroger.com/product/images/medium/front/0000954204187,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-Mate Italian Sweet Creme Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000028142,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Milk Chocolate Candies Party Size Stand Up Pouch,38 oz,8.99,https://www.kroger.com/product/images/medium/front/0004000055113,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Topped with Cocoa Wafer Bites,0.7 oz,1.5,https://www.kroger.com/product/images/medium/front/0000980000073,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Sugar Free Italian Sweet Creme Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000014578,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Almond Breeze Unsweetened Vanilla Almondmilk Cashewmilk Blend,1/2 gal,3.49,https://www.kroger.com/product/images/medium/front/0004157011083,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Whole Milk Plain Greek Yogurt,32 oz,5.49,https://www.kroger.com/product/images/medium/front/0089470001043,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kit Kat Miniatures Milk Chocolate Wafer Candy Bars,10.1 oz,3.49,https://www.kroger.com/product/images/medium/front/0003400022670,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Tipped with Cocoa Wafer Bites Eggs,3 ct / 0.7 oz,3.99,https://www.kroger.com/product/images/medium/front/0000980057005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Symphony Giant Milk Chocolate with Almonds and Toffee Bar,6.8 oz,2.99,https://www.kroger.com/product/images/medium/front/0003400019940,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cacique Cotija Part Skim Milk Cheese,10 oz,3.39,https://www.kroger.com/product/images/medium/front/0007456200110,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Chocolate Almondmilk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111084596,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Chocolate Soymilk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111042954,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Original Almondmilk,96 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004157005770,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Unsweetened Soymilk,32 fl oz,1.99,https://www.kroger.com/product/images/medium/front/0001111088806,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Miniatures Chocolate Candy Assortment Share Pack,10.4 oz,3.49,https://www.kroger.com/product/images/medium/front/0003400021490,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Private Selection™ Milk Chocolate Sea Salt Caramels,7.5 oz,2.99,https://www.kroger.com/product/images/medium/front/0004126038442,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Minis &amp; Peanuts Milk Chocolate Bar,3.9 oz,1.5,https://www.kroger.com/product/images/medium/front/0004000053968,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Large Dog Biscuits,24 oz,3.19,https://www.kroger.com/product/images/medium/front/0007910051411,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Suave Milk &amp; Honey Splash Creamy Body Wash,15 fl oz,1.99,https://www.kroger.com/product/images/medium/front/0007940011886,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Unsweetened Almond Milk,32 fl oz,1.99,https://www.kroger.com/product/images/medium/front/0001111081557,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ghirardelli Chocolate Milk &amp; Caramel Squares,3.5 oz,2.99,https://www.kroger.com/product/images/medium/front/0074759960764,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Califia Farms Mocha Cold Brew Coffee with Almond Milk,48 fl oz,5.49,https://www.kroger.com/product/images/medium/front/0085290900350,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",VO5 Moisture Milks Strawberries &amp; Cream Moisturizing Shampoo,12.5 fl oz,0.89,https://www.kroger.com/product/images/medium/front/0081655901302,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",VO5 Moisture Milks Strawberries &amp; Cream Moisturizing Conditioner,12.5 fl oz,0.89,https://www.kroger.com/product/images/medium/front/0081655901303,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dove Promises Silky Smooth Milk Chocolate Candy,15.8 oz,8.99,https://www.kroger.com/product/images/medium/front/0004000052565,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Carnation Sweetened Condensed Milk,14 oz,3.19,https://www.kroger.com/product/images/medium/front/0005000011081,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Unsweetened Almond Milk,32 fl oz,1.99,https://www.kroger.com/product/images/medium/front/0001111081557,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Topped with Cocoa Wafer Bites,0.7 oz,1.5,https://www.kroger.com/product/images/medium/front/0000980000073,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",International Delight French Vanilla Coffee Creamer,32 fl oz,2.99,https://www.kroger.com/product/images/medium/front/0004127102564,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Haagen-Dazs Gluten Free Vanilla Milk Chocolate Ice Cream Bars,3 ct / 3 fl oz,4.79,https://www.kroger.com/product/images/medium/front/0007457001310,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Tipped with Cocoa Wafer Bites Eggs,3 ct / 0.7 oz,3.99,https://www.kroger.com/product/images/medium/front/0000980057005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk Duds Candy,10 oz,3.49,https://www.kroger.com/product/images/medium/front/0001070053100,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Brown Cow Cream Top Maple Whole Milk Yogurt,5.3 oz,0.99,https://www.kroger.com/product/images/medium/front/0008819470314,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Extra Creamy Milk Chocolate Nuggets with Toffee &amp; Almonds,10.2 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400001875,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Andre Prost Dairy Free Unsweetened  Coconut Milk,13.5 fl oz,2.49,https://www.kroger.com/product/images/medium/front/0007065006025,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Mountain High Plain Original Whole Milk Yoghurt,64 oz,5.19,https://www.kroger.com/product/images/medium/front/0007527041052,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweetened Vanilla Almondmilk Yogurt Alternative,24 oz,6.99,https://www.kroger.com/product/images/medium/front/0002529300535,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Miniatures Chocolate Candy Assortment Share Pack,10.4 oz,3.49,https://www.kroger.com/product/images/medium/front/0003400021490,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Chocolate Almond Milk,32 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0004157006837,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lily's  Caramelized &amp; Salted Milk Chocolate Bar,2.8 oz,4.99,https://www.kroger.com/product/images/medium/front/0085648100380,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Minis &amp; Peanuts Milk Chocolate Bar,3.9 oz,1.5,https://www.kroger.com/product/images/medium/front/0004000053968,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S KISSES Candy Milk Chocolate,35.8 oz,8.99,https://www.kroger.com/product/images/medium/front/0003400013480,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Drops Pouch,7.6 oz,2.99,https://www.kroger.com/product/images/medium/front/0003400099665,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Swiss Miss Milk Chocolate Hot Cocoa K-Cup Pods,12 ct,8.99,https://www.kroger.com/product/images/medium/front/0009955501250,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Vanilla Unsweetened Coconut Milk,32 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0004157008977,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Whole Milk Vanilla Greek Yogurt,32 oz,4.79,https://www.kroger.com/product/images/medium/front/0001111004588,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Dairy Free Original Coconut Milk Creamer,32 fl oz,4.49,https://www.kroger.com/product/images/medium/front/0074447394120,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Genuine Non Dairy Chocolate Protein Shakes,4 bottles / 11 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0018053000081,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey’s Kisses Candy Family Pack Milk Chocolate,17.9 oz,7.99,https://www.kroger.com/product/images/medium/front/0003400014059,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Dutch Milk Chocolate Hot Cocoa with Mini Marshmallows 8 ct,5.92 oz,2.29,https://www.kroger.com/product/images/medium/front/0001111004287,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Justin's Organic Milk Chocolate Peanut Butter Cups,1.4 oz,1.99,https://www.kroger.com/product/images/medium/front/0089445500024,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Unsweetened Original Almondmilk Creamer,32 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004157013087,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Atkins Milk Chocolate Delight Protein-Rich Shakes,4 bottles / 11 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0063748006501,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle La Lechera Sweetened Condensed Milk,11.8 oz,3.29,https://www.kroger.com/product/images/medium/front/0002800070611,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500463,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Unsweetened Vanilla Almondmilk Yogurt Alternative,24 oz,6.99,https://www.kroger.com/product/images/medium/front/0002529300535,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Unsweetened Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Vanilla Unsweetened Coconut Milk,32 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0004157008977,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Chocolate Almond Milk,32 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0004157006837,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Topped with Cocoa Wafer Bites,0.7 oz,1.5,https://www.kroger.com/product/images/medium/front/0000980000073,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Drops Pouch,7.6 oz,2.99,https://www.kroger.com/product/images/medium/front/0003400099665,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Swiss Miss Milk Chocolate Hot Cocoa K-Cup Pods,12 ct,8.99,https://www.kroger.com/product/images/medium/front/0009955501250,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Mountain High Plain Original Whole Milk Yoghurt,64 oz,5.19,https://www.kroger.com/product/images/medium/front/0007527041052,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Genuine Non Dairy Chocolate Protein Shakes,4 bottles / 11 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0018053000081,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dian Milk Chocolate Banana Babies,10.5 Fl Oz,4.99,https://www.kroger.com/product/images/medium/front/0074349000010,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lily's  Caramelized &amp; Salted Milk Chocolate Bar,2.8 oz,4.99,https://www.kroger.com/product/images/medium/front/0085648100380,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Tipped with Cocoa Wafer Bites Eggs,3 ct / 0.7 oz,3.99,https://www.kroger.com/product/images/medium/front/0000980057005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stonyfield Organic YoBaby Peach &amp; Pear Whole Milk Yogurt,6 ct / 4 oz,4.69,https://www.kroger.com/product/images/medium/front/0005215970116,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone MaroSnacks,10 Oz,3.99,https://www.kroger.com/product/images/medium/front/0007910090207,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Lalechera Lactose Free Skim Condensed Milk,14 oz,2.99,https://www.kroger.com/product/images/medium/front/0005000041134,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lifeway Organic Wildberries and Cream Kefir Cultured Whole Milk,32 fl oz,4.99,https://www.kroger.com/product/images/medium/front/0001707707432,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Private Selection™ Milk Chocolate Petit Beurre Biscuits,5.29 oz,2.99,https://www.kroger.com/product/images/medium/front/0001111087200,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Carnation Breakfast Essentials Chocolate Milk Powder Drink Mix,10 ct / 1.26 oz,5.99,https://www.kroger.com/product/images/medium/front/0005000053032,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Minis &amp; Almonds Milk Chocolate Bar,3.9 oz,1.5,https://www.kroger.com/product/images/medium/front/0004000053974,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Organic Unsweetened Almond Coconut Milk,32 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0004157008976,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Mocha Almond Milk Frappuccino,13.7 fl oz,2.99,https://www.kroger.com/product/images/medium/front/0001200017111,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic 1% Chocolate Lowfat Milk 6 Count,6 ct / 8 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0074236500416,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Raisinets Milk Chocolate Covered Raisins,8 oz,3.0,https://www.kroger.com/product/images/medium/front/0009990040385,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Carnation Breakfast Essentials High Protein Rich Milk Chocolate Drink,6 ct / 8 fl oz,8.99,https://www.kroger.com/product/images/medium/front/0005000040695,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Magnum Milk Chocolate Vanilla Ice Cream,14.8 fl oz,4.99,https://www.kroger.com/product/images/medium/front/0007756700102,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ensure High Protein Milk Chocolate Ready to Drink Nutrition Shake,6 bottles / 8 fl oz,11.99,https://www.kroger.com/product/images/medium/front/0007007464116,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Unsweetened Vanilla Almond Milk,32 fl oz,1.79,https://www.kroger.com/product/images/medium/front/0001111083449,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Phillips' Milk of Magnesia Wild Cherry Flavor Liquid,12 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0031284339324,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Vanilla Almondmilk Frappuccino Chilled Coffee Drink,13.7 fl oz,2.99,https://www.kroger.com/product/images/medium/front/0001200017109,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S Milk Chocolate Bars,6 ct / 1.55 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400029005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Minis &amp; Almonds Milk Chocolate Bar,3.9 oz,1.5,https://www.kroger.com/product/images/medium/front/0004000053974,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Snack Size Candy Bars 8 Count,8 ct / 0.45,1.99,https://www.kroger.com/product/images/medium/front/0003400007015,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Genuine Non Dairy Vanilla Creme Protein Shakes,4 bottles / 11 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0018053000082,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bar,1.55 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000240,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Green &amp; Black's Organic Almond Milk Chocolate Bar,3.17 oz,3.99,https://www.kroger.com/product/images/medium/front/0070865600153,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",M&amp;M's Minis &amp; Crisp Rice Milk Chocolate Bar,3.8 oz,1.5,https://www.kroger.com/product/images/medium/front/0004000053980,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Mocha with Almond Milk Coffee Drink Can,8 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0001111003769,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,https://www.kroger.com/product/images/medium/front/0003400029105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pepperidge Farm Soft Baked Mackinac Oatmeal Milk Chocolate Cookies,8.6 oz,3.49,https://www.kroger.com/product/images/medium/front/0001410004854,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Lalechera Lactose Free Skim Condensed Milk,14 oz,2.99,https://www.kroger.com/product/images/medium/front/0005000041134,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Carnation Evaporated Milk,17 fl oz,3.49,https://www.kroger.com/product/images/medium/front/0005000095895,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate with Almonds Candy Bar,1.45 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000241,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Soft &amp; Chewy Chicken Dog Snacks,5.6 oz,4.49,https://www.kroger.com/product/images/medium/front/0007910090212,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Raisinets Milk Chocolate Covered Raisins,8 oz,3.0,https://www.kroger.com/product/images/medium/front/0009990040385,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lily's Salted Almonds Milk Chocolate Bar,3 oz,4.99,https://www.kroger.com/product/images/medium/front/0085648100305,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Crunch Fun Size Bars,10 oz,3.0,https://www.kroger.com/product/images/medium/front/0009990050589,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Brown Cow Cream Top Cherry Vanilla Whole Milk Yogurt,6 oz,0.99,https://www.kroger.com/product/images/medium/front/0008819434009,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pepperidge Farm Farmhouse Thin &amp; Crispy Toffee Milk Chocolate Cookies,6.9 oz,3.49,https://www.kroger.com/product/images/medium/front/0001410004853,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dove Milk Chocolate Bar,3.30 oz,2.49,https://www.kroger.com/product/images/medium/front/0004000054139,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Milk Chocolate Hot Cocoa K-Cup Pods,12 ct,6.49,https://www.kroger.com/product/images/medium/front/0001111087775,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Dipped Salted Caramel Cashew Milk Non-Dairy Frozen Dessert Bar,9.2 fl oz,6.99,https://www.kroger.com/product/images/medium/right/0074447300030,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Instant Non-Fat Dry Milk,25.6 oz,8.99,https://www.kroger.com/product/images/medium/front/0001111083297,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lifeway Organic Plain Unsweetened Kefir Cultured Whole Milk,32 fl oz,4.99,https://www.kroger.com/product/images/medium/right/0001707707232,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Savor Plain Whole Milk Squeezable Greek Yogurt,14 oz,2.69,https://www.kroger.com/product/images/medium/front/0081829001138,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Dipped Salted Caramel Cashew Milk Non-Dairy Frozen Dessert Bar,9.2 fl oz,6.99,https://www.kroger.com/product/images/medium/right/0074447300030,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Phillips' Milk of Magnesia Wild Cherry Flavor Liquid,12 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0031284339324,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic 1% Vanilla Lowfat Milk 6 Count,6 ct / 8 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0074236500417,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dove Chocolate Promises Milk Chocolate &amp; Caramel Candy,7.61 oz,5.49,https://www.kroger.com/product/images/medium/front/0004000052542,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic 1% Chocolate Lowfat Milk 6 Count,6 ct / 8 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0074236500416,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organix Nourishing Coconut Milk Conditioner,13 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691006,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lily's Creamy Milk Chocolate Bar,3 oz,4.99,https://www.kroger.com/product/images/medium/front/0085648100304,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ensure High Protein Milk Chocolate Ready to Drink Nutrition Shake,6 bottles / 8 fl oz,11.99,https://www.kroger.com/product/images/medium/front/0007007464116,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Vanilla Lowfat Milk,8 fl oz,0.99,https://www.kroger.com/product/images/medium/front/0074236520845,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",A2 Milk 2% Reduced Fat Milk,64 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081326702001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SlimFast Original Creamy Milk Chocolate Ready To Drink Meal Replacement Shakes,8 bottles / 11 fl oz,9.99,https://www.kroger.com/product/images/medium/front/0000834678001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic 1% Lowfat Milk,6 ct / 8 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0074236500420,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Freeze-Dried Strawberries in Milk Chocolate Pouch,5 oz,4.49,https://www.kroger.com/product/images/medium/front/0001111003332,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Vanilla Cashewgurt Probiotic Plant-Based Yogurt,24 oz,5.99,https://www.kroger.com/product/images/medium/front/0081455802061,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Lowfat Chocolate Milk,12 ct / 8 fl oz,11.49,https://www.kroger.com/product/images/medium/front/0074236500270,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lotte Milkis Original Milk &amp; Yogurt Flavor Carbonated Drink,8.45 fl oz,0.99,https://www.kroger.com/product/images/medium/front/0080993907354,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",D'Gari Vanilla Gelatin Dessert Milk Mix,4.2 oz,0.99,https://www.kroger.com/product/images/medium/front/0073525701324,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Vanilla Bean Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802029,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kite Hill Strawberry Almond Milk Yogurt,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0085662400414,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Magnum Milk Chocolate Vanilla Ice Cream,14.8 fl oz,4.99,https://www.kroger.com/product/images/medium/front/0007756700102,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kite Hill Blueberry Almond Milk Yogurt,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0085662400413,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Cherry Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802063,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",La Colombe Draft Latte Vanilla Frothed Milk Cold-Pressed Espresso,9 fl oz,2.99,https://www.kroger.com/product/images/medium/front/0060491300019,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Almond Milk Mocha Fudge Bars 4 Pack,9.2 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0074447349213,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Caress Tahitian Pomegranate &amp; Coconut Milk Exfoliating Body Wash,18 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004589310561,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ben &amp; Jerry’s Chocolate Milk &amp; Cookies Moo-Phoria! Ice Cream,1 pt,4.99,https://www.kroger.com/product/images/medium/front/0007684000144,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Nido Fortificada Dry Milk,12.6 oz,5.99,https://www.kroger.com/product/images/medium/front/0002800003317,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SO Delicious Creamy Vanilla Soymilk Non-Dairy Frozen Dessert,1 qt,6.99,https://www.kroger.com/product/images/medium/front/0074447372011,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Evaporated Milk with Vitamin D,12 fl oz,2.79,https://www.kroger.com/product/images/medium/front/0001111084964,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dove Chocolate Promises Milk Chocolate &amp; Caramel Candy,7.61 oz,5.49,https://www.kroger.com/product/images/medium/front/0004000052542,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Carnation Breakfast Essentials High Protein Rich Milk Chocolate Breakfast Drink,8 ct / 1.31 oz,7.69,https://www.kroger.com/product/images/medium/front/0005000060664,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ogx Nourishing Coconut Milk Shampoo,13 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Good Morning Total Wellness Dog Chews,6 oz,5.49,https://www.kroger.com/product/images/medium/front/0007910000810,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Unsweetened Plain Cashewmilk Yogurt Alternative,24 oz,5.99,https://www.kroger.com/product/images/medium/front/0081455802033,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Mocha with Almond Milk Coffee Drink Can,8 fl oz,2.0,https://www.kroger.com/product/images/medium/front/0001111003769,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Atkins Endulge Milk Chocolate Caramel Squares,5 ct / 0.41 oz,6.29,https://www.kroger.com/product/images/medium/front/0063748007051,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Topped with Cocoa Wafer Bites,0.7 oz,1.5,https://www.kroger.com/product/images/medium/front/0000980000073,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",La Colombe Draft Latte Vanilla Frothed Milk Cold-Pressed Espresso,9 fl oz,2.99,https://www.kroger.com/product/images/medium/front/0060491300019,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Private Selection™ Milk Chocolate Sea Salt Toffee Truffle,5 oz,2.99,https://www.kroger.com/product/images/medium/front/0004126038444,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Choco Milk Chocolate Drink Mix,14.1 oz,3.49,https://www.kroger.com/product/images/medium/front/0030087834960,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ovaltine Rich Chocolate Flavored Milk Mix,18 oz,7.99,https://www.kroger.com/product/images/medium/front/0075174603218,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Large Brushing Chew Bones,8.1 oz,5.49,https://www.kroger.com/product/images/medium/front/0007910078566,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Nido Kinder 1+ Powdered Milk Beverage,12.6 oz,5.99,https://www.kroger.com/product/images/medium/front/0002800033317,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kinder Joy Go Wild Sweet Cream Tipped with Cocoa Wafer Bites Eggs,3 ct / 0.7 oz,3.99,https://www.kroger.com/product/images/medium/front/0000980057005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Protein Unsweetened Organic Soymilk,32 fl oz,3.79,https://www.kroger.com/product/images/medium/front/0002529360089,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kite Hill Plain Unsweetened Almond Milk Yogurt,16 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0085662400436,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nancy's Organic Whole Milk Plain Yogurt,32 oz,5.99,https://www.kroger.com/product/images/medium/front/0004319210500,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Annabelle's Rocky Road Milk Chocolate Coated Marshmallow with Cashews Candy Bar,1.82 oz,1.59,https://www.kroger.com/product/images/medium/front/0007060246900,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Half &amp; Half,1/2 gal,3.19,https://www.kroger.com/product/images/medium/front/0001111050074,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dairy Pure 2% Reduced Fat Milk,32 fl oz,2.79,https://www.kroger.com/product/images/medium/front/0004190007986,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SlimFast Original Creamy Milk Chocolate Ready To Drink Meal Replacement Shakes,8 bottles / 11 fl oz,9.99,https://www.kroger.com/product/images/medium/front/0000834678001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Nido  Kinder 1+ Powdered Milk Beverage,3.52 lb,18.99,https://www.kroger.com/product/images/medium/front/0002800013317,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Magnum Milk Chocolate Vanilla Ice Cream,14.8 fl oz,4.99,https://www.kroger.com/product/images/medium/front/0007756700102,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Lowfat Chocolate Milk,8 fl oz,1.95,https://www.kroger.com/product/images/medium/front/0074236500518,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Magnum Milk Chocolate Vanilla Ice Cream,14.8 fl oz,4.99,https://www.kroger.com/product/images/medium/front/0007756700102,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nestle Nido Fortificada Dry Milk,3.52 lb,18.99,https://www.kroger.com/product/images/medium/front/0002800082317,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Enfamil NeuroPro Gentlease Infant Formula Milk-Based Powder,27.4 oz,36.99,https://www.kroger.com/product/images/medium/front/0030087512121,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Good Morning Healthy Joint Dog Chews,6 oz,5.49,https://www.kroger.com/product/images/medium/front/0007910000811,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Atkins Milk Chocolate Delight Protein-Rich Shake Value Pack,8 ct / 11 fl oz,12.99,https://www.kroger.com/product/images/medium/left/0063748009968,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Carnation Breakfast Essentials High Protein Rich Milk Chocolate Breakfast Drink,8 ct / 1.31 oz,7.69,https://www.kroger.com/product/images/medium/front/0005000060664,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Similac Pro-Sensitive HMO Milk-Based Ready to Feed Infant Formula Bottles,12 bottles / 2 fl oz,12.99,https://www.kroger.com/product/images/medium/front/0007007467565,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Chicken Paw Rockers Wonder Bones Mini Dog Treats,4 ct,2.99,https://www.kroger.com/product/images/medium/front/0007910075810,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dove Promises Peanut Butter and Milk Chocolate Candy,7.61 oz,5.49,https://www.kroger.com/product/images/medium/front/0004000052614,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ben &amp; Jerry’s Chocolate Milk &amp; Cookies Moo-Phoria! Ice Cream,1 pt,4.99,https://www.kroger.com/product/images/medium/front/0007684000144,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Shampoo,25.4 fl oz,6.79,https://www.kroger.com/product/images/medium/front/0008087817132,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Galbani Whole Milk Ricotta Cheese,32 Oz,4.29,https://www.kroger.com/product/images/medium/front/0007403020300,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Private Selection™ Caramel &amp; Milk Chocolate Enrobed Pretzels,4.2 oz,2.99,https://www.kroger.com/product/images/medium/front/0004126037975,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Haagen-Dazs White &amp; Milk Chocolate Trio Crispy Belgian Chocolate Layers Ice Cream,14 fl oz,4.99,https://www.kroger.com/product/images/medium/front/0007457062296,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Shampoo,12.6 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0008087817126,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",PediaSure Organic Milk Chocolate Shakes,6 bottles / 8 fl oz,10.99,https://www.kroger.com/product/images/medium/front/0007007467218,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Justin's Organic Mini Milk Chocolate Peanut Butter Cups,4.7 oz,5.99,https://www.kroger.com/product/images/medium/front/0085518800398,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Genuine Non Dairy Banana Creme Shakes,4 bottles / 11 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0018053000083,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lakeview Farms Milk Chocolate Pudding,4.5 oz,0.69,https://www.kroger.com/product/images/medium/front/0004427606582,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Similac Pro-Advance HMO Milk-Based Ready to Feed Infant Formula,12 bottles / 2 fl oz,12.99,https://www.kroger.com/product/images/medium/front/0007007467563,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Reduced Fat Strawberry Milk,6 ct / 8 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0074236500421,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",OGX Hydrating Teatree Mint Shampoo,13 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691014,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Herbal Essences Bio Renew Hydrate Coconut Milk Shampoo,13.5 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0019067900001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pacific Unsweetened Almond Milk,32 fl oz,3.19,https://www.kroger.com/product/images/medium/front/0005260306503,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) TRESemme' Botamique Nourish &amp; Replenish with Coconut Milk &amp; Aloe Vera Shampoo,22 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0002240000047,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Wonder Bones Beef Paw Rockers Small/Medium Dog Treat,2 ct,2.99,https://www.kroger.com/product/images/medium/front/0007910075819,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Chocolate Non Dairy Protein Shake,12 bottles / 11 fl oz,19.99,https://www.kroger.com/product/images/medium/front/0018053000096,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Large Brushing Chew Bones,8.1 oz,5.49,https://www.kroger.com/product/images/medium/front/0007910078566,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Starbucks Almondmilk Caffe Latte Chilled Espresso Beverage,40 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0004850020320,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ensure Milk Chocolate High Protein Nutrition Shake,12 ct / 8 fl oz,15.99,https://www.kroger.com/product/images/medium/front/0007007464275,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Herbal Essences Bio Renew Hydrate Coconut Milk Conditioner,13.5 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0019067900011,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Similac Pro-Sensitive HMO Milk-Based Ready to Feed Infant Formula Bottles,12 bottles / 2 fl oz,12.99,https://www.kroger.com/product/images/medium/front/0007007467565,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kite Hill Strawberry Almond Milk Yogurt,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0085662400414,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dove Promises Peanut Butter and Milk Chocolate Candy,7.61 oz,5.49,https://www.kroger.com/product/images/medium/front/0004000052614,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(MAX 3) Olay Hydrating Clean Almond Milk Beauty Bars,6 ct / 3.75 oz,8.49,https://www.kroger.com/product/images/medium/front/0003700074365,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Thai Kitchen Unsweetened Lite Coconut Milk,25.36 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0073762801141,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Stumptown Coffee Roasters Homestead Blend Candied &amp; Milk Chocolate Whole Bean Coffee,12 oz,13.99,https://www.kroger.com/product/images/medium/front/0085518600625,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Phillips' Milk of Magnesia Original Liquid,12 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0031284335302,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Carnation Breakfast Essentials High Protein Rich Milk Chocolate Breakfast Drink,8 ct / 1.31 oz,7.69,https://www.kroger.com/product/images/medium/front/0005000060664,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Fairlife 2% Reduced Fat Ultra-Filtered Chocolate Milk,6 bottles / 8 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0081162002206,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cocomel Sea Salt Coconut Milk Caramels Bites,3.5 oz,4.99,https://www.kroger.com/product/images/medium/front/0085361000373,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Apollo Sage &amp; Cedarwood 2-In-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",OGX Nourishing + Coconut Milk Conditioner,19.5 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691892,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Chocolate Soymilk,6 ct / 8 fl oz,9.49,https://www.kroger.com/product/images/medium/front/0002529300270,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Special K Milk Chocolate Protein Shakes,4 ct / 10 fl oz,9.49,https://www.kroger.com/product/images/medium/front/0003800043204,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Phoenix Clean &amp; Refreshed 2-in-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046170,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",OGX Nourishing + Coconut Milk Shampoo,19.5 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691891,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Galbani Whole Milk Ricotta Cheese,32 Oz,4.29,https://www.kroger.com/product/images/medium/front/0007403020300,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Private Selection™ Caramel &amp; Milk Chocolate Enrobed Pretzels,4.2 oz,2.99,https://www.kroger.com/product/images/medium/front/0004126037975,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Ice Chill 2-In-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046121,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Wonder Bones Beef Paw Rockers Small/Medium Dog Treat,2 ct,2.99,https://www.kroger.com/product/images/medium/front/0007910075819,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dr. Oetker Milk Chocolate Mousse Mix,3.1 Oz,2.99,https://www.kroger.com/product/images/medium/front/0005833602220,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) TRESemme Botanique Nourish &amp; Replenish with Coconut Milk &amp; Aloe Vera Conditioner,22 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0002240000064,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Herbal Essences Bio Renew Hydrate Coconut Milk Shampoo,13.5 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0019067900001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Elite Milk Chocolate Bar,3 oz,2.99,https://www.kroger.com/product/images/medium/front/0007724510996,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Original Soymilk Twin Pack,2 ct / 1/2 gal,6.59,https://www.kroger.com/product/images/medium/front/0002529360092,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chameleon Cold-Brew Organic Whole Milk Canned Latte,8 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0085122000355,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Original Flavor Milk of Magnesia,12 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0001111038546,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Apollo Sage &amp; Cedarwood 2-In-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Aveeno Oat Milk Blend Conditioner,12 fl oz,8.99,https://www.kroger.com/product/images/medium/front/0005280067301,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Phoenix Clean &amp; Refreshed 2-in-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046170,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Seattle Chocolate Many Thanks Milk Chocolate Truffle Bar,2.5 oz,3.99,https://www.kroger.com/product/images/medium/front/0008101409084,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",HERSHEY'S Milk Chocolate Bars,6 ct / 1.55 oz,3.99,https://www.kroger.com/product/images/medium/front/0003400029005,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Maple Hill Creamery 100% Grass-Fed Cows Whole Milk Plain Greek Yogurt,16 oz,5.99,https://www.kroger.com/product/images/medium/front/0085508800523,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Snack Size Candy Bars 8 Count,8 ct / 0.45,1.99,https://www.kroger.com/product/images/medium/front/0003400007015,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dr. Oetker Milk Chocolate Mousse Mix,3.1 Oz,2.99,https://www.kroger.com/product/images/medium/front/0005833602220,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pacific Unsweetened Almond Milk,32 fl oz,3.19,https://www.kroger.com/product/images/medium/front/0005260306503,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",New Holland Brewing Dragon’s Milk Bourbon Barrel-Aged White Stout,6 cans / 12 fl oz,14.99,https://www.kroger.com/product/images/medium/front/0061403630191,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bar,1.55 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000240,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Slim Rite® Original Milk Chocolate Meal Replacement Shake Mix,13 oz,7.99,https://www.kroger.com/product/images/medium/front/0004126034515,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Similac Pro-Advance HMO Milk-Based Ready to Feed Infant Formula,12 bottles / 2 fl oz,12.99,https://www.kroger.com/product/images/medium/front/0007007467563,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Vanilla Almond Milk,6 ct / 8 fl oz,9.49,https://www.kroger.com/product/images/medium/front/0002529300273,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,https://www.kroger.com/product/images/medium/front/0003400029105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dellah Global Kitchen Seasoned Ghee with Turmeric &amp; Black Pepper Clarified Water Buffalo Milk,16 oz,10.99,https://www.kroger.com/product/images/medium/front/0065153981001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Seattle Chocolate San Juan Sea Salt Milk Chocolate Truffle Bar,2.5 oz,3.99,https://www.kroger.com/product/images/medium/front/0008101409082,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Savor Plain Whole Milk Squeezable Greek Yogurt,14 oz,2.69,https://www.kroger.com/product/images/medium/front/0081829001138,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Milk Chocolate with Almonds Candy Bar,1.45 oz,1.29,https://www.kroger.com/product/images/medium/front/0003400000241,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Avalon Organics Intense Defense Cleansing Milk with Vitamin C,8.5 fl oz,12.49,https://www.kroger.com/product/images/medium/front/0065474945390,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk-Bone Wonder Bones Chicken Paw Rockers Small/Medium Dog Treats,2 ct,2.99,https://www.kroger.com/product/images/medium/front/0007910075811,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Alba Coconut Milk Wash,12 Fl Oz,6.99,https://www.kroger.com/product/images/medium/front/0072474200855,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Genuine Non Dairy Banana Creme Shakes,4 bottles / 11 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0018053000083,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Enfagrow Premium Toddler Next Step Natural Milk Drink,24 oz,19.34,https://www.kroger.com/product/images/medium/front/0030087146741,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pepperidge Farm Farmhouse Thin and Crispy Milk Chocolate Chip Cookies,12 ct / 5.9 oz,3.49,https://www.kroger.com/product/images/medium/front/0001410005061,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milk Bone Active Biscuit Dispensing Ball,1 ct,9.99,https://www.kroger.com/product/images/medium/front/0007910000555,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Live Clean Coconut Milk One Minute Hair Mask 5 in 1 Treatment,3 fl oz,3.79,https://www.kroger.com/product/images/medium/front/0006574323373,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Aveeno Oat Milk Blend Shampoo,12 fl oz,8.99,https://www.kroger.com/product/images/medium/front/0005280067300,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Giovanni 2chic Blackberry + Coconut Milk Repairing Conditioner,8.5 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0071623718481,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ensure Enlive Advanced Milk Chocolate Nutrition Shake,4 bottles / 8 fl oz,12.99,https://www.kroger.com/product/images/medium/front/0007007464297,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ghirardelli Caramel Filled Milk Chocolate Minis,4.6 oz,4.49,https://www.kroger.com/product/images/medium/front/0074759940158,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ensure Plus Milk Chocolate Ready-to-Drink Nutrition Shake,16 bottles / 8 fl oz,25.99,https://www.kroger.com/product/images/medium/front/0007007466544,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Live Clean Coconut Milk Moisturizing Shampoo,12 fl oz,5.49,https://www.kroger.com/product/images/medium/front/0006574333230,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Apollo Sage &amp; Cedarwood 2-In-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Love Beauty and Planet Divide Definition Coconut Milk and White Jasmine Conditioner,13.52 fl oz,7.99,https://www.kroger.com/product/images/medium/front/0005508600289,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Phoenix Clean &amp; Refreshed 2-in-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046170,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Live Clean Coconut Milk One Minute Hair Mask 5 in 1 Treatment,3 fl oz,3.79,https://www.kroger.com/product/images/medium/front/0006574323373,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Ice Chill 2-In-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046121,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Blue Diamond Almond Breeze Vanilla Almondmilk Creamer,32 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004157013088,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Alba Coconut Milk Wash,12 Fl Oz,6.99,https://www.kroger.com/product/images/medium/front/0072474200855,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Enfamil NeuroPro Sensitive Infant Formula Milk-Based Powder with Iron,19.5 oz,27.48,https://www.kroger.com/product/images/medium/front/0030087512452,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Shampoo,25.4 fl oz,6.79,https://www.kroger.com/product/images/medium/front/0008087817132,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Sonoma Organic Cream on Top Blueberry Whole Milk Yogurt,6 oz,1.99,https://www.kroger.com/product/images/medium/front/0007085299138,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lindt LINDOR Milk Chocolate Bar,3.5 oz,2.99,https://www.kroger.com/product/images/medium/front/0003746601931,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hair Food Coconut Milk &amp; Chai Spice Nourishing Shampoo,10.1 fl oz,8.49,https://www.kroger.com/product/images/medium/front/0003700082338,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Shampoo,12.6 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0008087817126,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Instant Non-Fat Dry Milk 10 Count,10 ct / 3.2 oz,10.49,https://www.kroger.com/product/images/medium/front/0001111088466,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Giovanni 2chic Blackberry &amp; Coconut Milk Repairing Hot Oil Treatment,1.75 oz,3.99,https://www.kroger.com/product/images/medium/front/0071623718523,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cream'Wich The Original Milk Choccolate Dipped Ice Cream Sandwich,5.5 fl oz,3.79,https://www.kroger.com/product/images/medium/front/0085871900401,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",OGX Hydrating Teatree Mint Shampoo,13 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691014,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ritter Sport Milk Chocolate with Butter Biscuit,3.5 Oz,3.99,https://www.kroger.com/product/images/medium/front/0005025521400,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Meyenberg Evaporated Goat Milk with Vitamin D,12 Fl Oz,4.99,https://www.kroger.com/product/images/medium/front/0007290400012,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Comforts™ Gentle Milk-Based Infant Formula Powder With Iron,21.5 oz,15.99,https://www.kroger.com/product/images/medium/front/0004126038120,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Baileys Almande Almondmilk Liqueur,750 mL,23.99,https://www.kroger.com/product/images/medium/front/0008200077628,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Genuine Non Dairy Banana Creme Shakes,4 bottles / 11 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0018053000083,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Seattle Chocolate San Juan Sea Salt Milk Chocolate Truffle Bar,2.5 oz,3.99,https://www.kroger.com/product/images/medium/front/0008101409082,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Magnum Milk Chocolate Mocha Ice Cream,14.8 fl oz,4.99,https://www.kroger.com/product/images/medium/front/0007756700162,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cocomels Sea Salt Coconut Milk Caramels,3.5 oz,4.99,https://www.kroger.com/product/images/medium/front/0085361000345,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Maple Hill Creamery 100% Grass-Fed Cows Whole Milk Plain Yogurt,32 oz,6.99,https://www.kroger.com/product/images/medium/front/0085508800506,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Gerber Good Start Everyday Probiotics Milk Based Infant Formula,20 oz,25.99,https://www.kroger.com/product/images/medium/front/0005000026587,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Enfagrow Premium Toddler Next Step Natural Milk Drink,24 oz,19.34,https://www.kroger.com/product/images/medium/front/0030087146741,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Enfamil Reguline Infant Formula Milk-Based Powder with Iron,20.4 oz,27.48,https://www.kroger.com/product/images/medium/front/0030087511157,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Cookies 'N Creme Nutritional Shake,4 bottles / 11 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0018053000084,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Crunch Fun Size Milk Chocolate Bars,10 oz,3.0,https://www.kroger.com/product/images/medium/front/0009990011778,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(MAX 3) A La Maison Oat Milk Soap,4 ct/3.5 oz,,https://www.kroger.com/product/images/medium/front/0081725201008,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chameleon Cold-Brew Organic Whole Milk Canned Latte,8 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0085122000355,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",New Holland Brewing Dragon’s Milk Bourbon Barrel-Aged White Stout,6 cans / 12 fl oz,14.99,https://www.kroger.com/product/images/medium/front/0061403630191,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",L'Oreal Paris Elvive Total Repair 5 Damage-Erasing Balm,8.5 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0007124924010,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Peanut Butter Cookie Flavored Protein Bars,5 ct / 1.76 oz,7.99,https://www.kroger.com/product/images/medium/front/0066072652535,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Live Clean Coconut Milk One Minute Hair Mask 5 in 1 Treatment,3 fl oz,3.79,https://www.kroger.com/product/images/medium/front/0006574323373,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Santini Sweetened Condensed Milk,14 oz,3.99,https://www.kroger.com/product/images/medium/front/0009568430012,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",L'Oreal Paris Elvive Total Repair 5 Protein Recharge Treatment,5.1 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0007124936484,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Vanilla Creme Non Dairy Protein Shake,12 bottles / 11 fl oz,19.99,https://www.kroger.com/product/images/medium/front/0018053000097,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Bahlsen Milk Chocolate Leibniz Biscuits,4.4 oz,5.49,https://www.kroger.com/product/images/medium/front/0007056929040,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hershey's Giant Milk Chocolate Peanuts &amp; Reese's Pieces Bar,7 oz,2.99,https://www.kroger.com/product/images/medium/front/0003400047447,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Conditioner,24 fl oz,6.79,https://www.kroger.com/product/images/medium/front/0008087817131,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Waterless Curl Milk,7.6 fl oz,8.49,https://www.kroger.com/product/images/medium/front/0003700054434,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Burt's Bees Milk and Honey Body Lotion,12 fl oz,11.99,https://www.kroger.com/product/images/medium/front/0079285000664,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Frankford Wonder Ball Plus Prize Super Mario Hollow Milk Chocolate Ball,1 oz,4.29,https://www.kroger.com/product/images/medium/front/0004137610163,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Enfamil NeuroPro Gentlease Infant Formula Milk-Based Powder,27.4 oz,36.99,https://www.kroger.com/product/images/medium/front/0030087512121,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Aveeno Oat Milk Blend Conditioner,12 fl oz,8.99,https://www.kroger.com/product/images/medium/front/0005280067301,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nature's Way Milk Thistle Vcaps,120 ct,28.99,https://www.kroger.com/product/images/medium/front/0003367415355,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Live Clean Coconut Milk Moisturizing Conditioner,12 fl oz,5.49,https://www.kroger.com/product/images/medium/front/0006574333231,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Seattle Chocolate San Juan Sea Salt Milk Chocolate Truffle Bar,2.5 oz,3.99,https://www.kroger.com/product/images/medium/front/0008101409082,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Caress Tahitian Pomegranate &amp; Coconut Milk Exfoliating Body Wash,18 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004589310561,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Enfamil NeuroPro Sensitive Infant Formula Milk-Based Powder with Iron,19.5 oz,27.48,https://www.kroger.com/product/images/medium/front/0030087512452,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Milk Thistle Capsules 350 mg,60 ct,8.99,https://www.kroger.com/product/images/medium/front/0001111091317,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Vanilla Cashewgurt Probiotic Plant-Based Yogurt,24 oz,5.99,https://www.kroger.com/product/images/medium/front/0081455802061,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ghirardelli Caramel Filled Milk Chocolate Minis,4.6 oz,4.49,https://www.kroger.com/product/images/medium/front/0074759940158,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Noosa Vanilla Yoghurt 4 Count,4 ct / 4 oz,3.89,https://www.kroger.com/product/images/medium/front/0085392300257,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Hair Food Coconut Milk &amp; Chai Spice Nourishing Shampoo,10.1 fl oz,8.49,https://www.kroger.com/product/images/medium/front/0003700082338,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Apollo Sage &amp; Cedarwood 2-In-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Nature's Way Milk Thistle Capsules,60 ct,15.49,https://www.kroger.com/product/images/medium/front/0003367462400,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Noosa Blueberry Yoghurt,4 ct / 4 oz,3.89,https://www.kroger.com/product/images/medium/front/0085392300207,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Santini Evaporated Milk,12 fl oz,2.19,https://www.kroger.com/product/images/medium/front/0009568430010,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Vanilla Bean Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802029,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Burt's Bees Almond Milk Hand Cream,2 Oz,9.99,https://www.kroger.com/product/images/medium/front/0079285025999,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Horizon Organic Low Fat Strawberry Milk,12 ct / 8 fl oz,11.49,https://www.kroger.com/product/images/medium/front/0074236500433,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Peanut Butter Cookie Flavored Protein Bars,5 ct / 1.76 oz,7.99,https://www.kroger.com/product/images/medium/front/0066072652535,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Cherry Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802063,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Maple Hill Creamery 100% Grass-Fed Cows Whole Milk Vanilla Yogurt,32 oz,6.99,https://www.kroger.com/product/images/medium/front/0085508800507,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Magnum Milk Chocolate Mocha Ice Cream,14.8 fl oz,4.99,https://www.kroger.com/product/images/medium/front/0007756700162,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Baileys Almande Almondmilk Liqueur,750 mL,23.99,https://www.kroger.com/product/images/medium/front/0008200077628,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Blueberry Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802031,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Love Beauty and Planet Coconut Milk &amp; White Jasime Medium Hold &amp; Volume Hair Spray,6.8 oz,7.99,https://www.kroger.com/product/images/medium/front/0005508600293,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kite Hill Dairy Free Almond Milk Chive Cream Cheese Style Spread,8 oz,8.99,https://www.kroger.com/product/images/medium/front/0085662400409,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",OGX Nourishing + Coconut Milk Conditioner,19.5 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691892,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Forager Project Organic Dairy-Free Lemon Cashewmilk Yogurt Alternative,5.3 oz,1.99,https://www.kroger.com/product/images/medium/front/0081455802030,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Garnier SkinActive Soothing Cleansing Milk,6.7 fl oz,7.49,https://www.kroger.com/product/images/medium/front/0060308454145,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dellah Global Kitchen Desi Ghee Taste of Indian Cuisine Clarified Water Buffalo Milk Butter,16 oz,10.99,https://www.kroger.com/product/images/medium/front/0065153981003,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Loacker Napolitaner Milk Chocolate with Hazelnut Cream and Wafer,1.9 oz,2.49,https://www.kroger.com/product/images/medium/front/0007658018197,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Mountain Thins Milk Chocolate Peanut Butter with Peanuts &amp; Sea Salt,5.3 oz,5.49,https://www.kroger.com/product/images/medium/front/0004177033380,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kroger® Instant Non-Fat Dry Milk,64 oz,17.99,https://www.kroger.com/product/images/medium/front/0001111083309,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Vanilla Soymilk Twin Pack,2 ct / 1/2 gal,6.59,https://www.kroger.com/product/images/medium/front/0002529360093,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Avalon Organics Wrinke Therapy Cleansing Milk,8.5 fl oz,10.29,https://www.kroger.com/product/images/medium/front/0065474935812,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Sonoma Organic Cream on Top Blueberry Whole Milk Yogurt,6 oz,1.99,https://www.kroger.com/product/images/medium/front/0007085299138,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Giovanni 2chic Blackberry &amp; Coconut Milk Repairing Hot Oil Treatment,1.75 oz,3.99,https://www.kroger.com/product/images/medium/front/0071623718523,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Avalon Organics Wrinke Therapy Cleansing Milk,8.5 fl oz,10.29,https://www.kroger.com/product/images/medium/front/0065474935812,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Sonoma Organic Cream on Top Blueberry Whole Milk Yogurt,6 oz,1.99,https://www.kroger.com/product/images/medium/front/0007085299138,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Apollo Sage &amp; Cedarwood 2-In-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046105,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Giovanni 2chic Blackberry &amp; Coconut Milk Repairing Hot Oil Treatment,1.75 oz,3.99,https://www.kroger.com/product/images/medium/front/0071623718523,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Axe Hair Phoenix Clean &amp; Refreshed 2-in-1 Shampoo &amp; Conditioner,16 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0007940046170,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Simple Truth Organic™ Infant Formula Milk-Based Powder with Iron,23.2 oz,19.99,https://www.kroger.com/product/images/medium/front/0004126037569,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Conditioner,24 fl oz,6.79,https://www.kroger.com/product/images/medium/front/0008087817131,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SlimFast Keto Ready to Drink Creamy Milk Chocolate Meal Replacement Shakes,4 bottles / 11 fl oz,10.99,https://www.kroger.com/product/images/medium/front/0000834674061,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Conditioner,12 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0008087817125,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",SlimFast Original Creamy Milk Chocolate Ready To Drink Meal Replacement Shakes,4 bottles / 11 fl oz,5.99,https://www.kroger.com/product/images/medium/front/0000834674001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",OGX Quenching Coconut Curls Conditioner,13 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279690092,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Yowie Milk Chocolate,1 oz,2.99,https://www.kroger.com/product/images/medium/front/0081080802001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) Comforts™ Toddler Beginnings Milk-Based Infant Formula Powder With Iron,20 oz,14.99,https://www.kroger.com/product/images/medium/front/0004126038288,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kite Hill Dairy Free Plain Almond Milk Cream Cheese Style Spread,8 oz,8.99,https://www.kroger.com/product/images/medium/front/0085662400408,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",OGX Renewing Argan Oil of Morocco Conditioner,13 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691612,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Bissinger's Coconut Caramel 38% Milk Chocolate Bar,3 oz,4.99,https://www.kroger.com/product/images/medium/front/0084610701499,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",(LMTD QTY) TRESemme Botanique Nourish &amp; Replenish with Coconut Milk &amp; Aloe Vera Conditioner,22 fl oz,6.49,https://www.kroger.com/product/images/medium/front/0002240000064,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Herbal Essences Bio Renew Hydrate Coconut Milk Shampoo,13.5 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0019067900001,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Organix Nourishing Coconut Milk Conditioner,13 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691006,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",It's Delish Dark and Milk Chocolate Peanuts,4 oz,4.49,https://www.kroger.com/product/images/medium/front/0079913746353,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Kopper's Milk Dark &amp; White Chocolate Covered NY Espresso Beans,4 oz,4.49,https://www.kroger.com/product/images/medium/front/0002043903220,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Muscle Milk Genuine Chocolate Protein Powder,30.9 oz,24.99,https://www.kroger.com/product/images/medium/front/0066072650327,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ogx Thick &amp; Full Bioton &amp; Collagen Conditioner,13 fl oz,6.0,https://www.kroger.com/product/images/medium/front/0002279691671,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Lindt LINDOR Milk Chocolate Bar,3.5 oz,2.99,https://www.kroger.com/product/images/medium/front/0003746601931,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Elite Milk Chocolate Bar,3 oz,2.99,https://www.kroger.com/product/images/medium/front/0007724510996,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Original Soymilk Twin Pack,2 ct / 1/2 gal,6.59,https://www.kroger.com/product/images/medium/front/0002529360092,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Cream'Wich The Original Milk Choccolate Dipped Ice Cream Sandwich,5.5 fl oz,3.79,https://www.kroger.com/product/images/medium/front/0085871900401,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Love Beauty and Planet Divide Definition Coconut Milk and White Jasmine Conditioner,13.52 fl oz,7.99,https://www.kroger.com/product/images/medium/front/0005508600289,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Alba Coconut Milk Hair Conditioner,12 oz,6.99,https://www.kroger.com/product/images/medium/front/0072474200861,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Seattle Chocolate Happy Birthday Cake Batter Milk Chocolate Truffle Bar,2.5 oz,3.99,https://www.kroger.com/product/images/medium/front/0008101409085,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Ritter Sport Milk Chocolate with Butter Biscuit,3.5 Oz,3.99,https://www.kroger.com/product/images/medium/front/0005025521400,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",White Mountain Whole Milk Bulgarian Yogurt,32 fo,7.79,https://www.kroger.com/product/images/medium/front/0008647920022,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Seattle Chocolate Many Thanks Milk Chocolate Truffle Bar,2.5 oz,3.99,https://www.kroger.com/product/images/medium/front/0008101409084,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Giovanni 2chic Blackberry + Coconut Milk Repairing Shampoo,8.5 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0071623718480,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Vanilla Coffee Creamer,24 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001693,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Dellah Global Kitchen Desi Ghee Taste of Indian Cuisine Clarified Water Buffalo Milk Butter,16 oz,10.99,https://www.kroger.com/product/images/medium/front/0065153981003,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Hazelnut Coffee Creamer,24 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001704,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Sugar Free Hazelnut Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000084808,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500463,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Mountain Thins Milk Chocolate Peanut Butter with Peanuts &amp; Sea Salt,5.3 oz,5.49,https://www.kroger.com/product/images/medium/front/0004177033380,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Milkadamia Raw Macadamias &amp; Coconut Unsweetened Vanilla Creamer,16 fl oz,4.19,https://www.kroger.com/product/images/medium/front/0085804500465,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",It's Delish Dark and Milk Chocolate Peanuts,4 oz,4.49,https://www.kroger.com/product/images/medium/front/0079913746353,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Shampoo,25.4 fl oz,6.79,https://www.kroger.com/product/images/medium/front/0008087817132,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Clover Sonoma Organic Cream on Top Blueberry Whole Milk Yogurt,6 oz,1.99,https://www.kroger.com/product/images/medium/front/0007085299138,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Coconut Creme Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/right/0005000088680,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-Mate Peppermint Mocha Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000088610,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Pantene Pro-V Daily Moisture Renewal Shampoo,12.6 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0008087817126,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Fat Free French Vanilla Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000012766,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",International Delight Caramel Macchiato Coffee Creamer,32 fl oz,2.99,https://www.kroger.com/product/images/medium/front/0004127100955,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate The Original Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000030262,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Oat Plain Plant-Based Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001698,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",International Delight Hazelnut Coffee Creamer,32 fl oz,2.99,https://www.kroger.com/product/images/medium/front/0004127102568,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth™ Coconutmilk,1/2 gal,2.79,https://www.kroger.com/product/images/medium/front/0001111084597,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Caramel Latte Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000070419,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Chobani Oat Plain Extra Creamy Plant-Based Milk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0081829001703,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Simple Truth Organic™ Half &amp; Half,16 fl oz,2.19,https://www.kroger.com/product/images/medium/front/0001111050357,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",International Delight Hershey Chocolate Caramel Coffee Creamer,32 fl oz,2.99,https://www.kroger.com/product/images/medium/front/0004127102502,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate The Original Coffee Creamer Powder,35.3 oz,5.79,https://www.kroger.com/product/images/medium/front/0005000030302,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Snickers Liquid Coffee Creamer,32 fl oz,3.69,https://www.kroger.com/product/images/medium/front/0005000089984,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Planet Oat Original Oatmilk,52 fl oz,3.99,https://www.kroger.com/product/images/medium/front/0004410015618,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Natural Bliss Vanilla Flavor Liquid Coffee Creamer,16 fl oz,3.49,https://www.kroger.com/product/images/medium/front/0005000069386,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Silk Oat Yeah Plain Dairy-Free Oatmilk,1/2 gal,3.99,https://www.kroger.com/product/images/medium/front/0003663207126,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Hazelnut Liquid Coffee Creamer,64 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0005000025117,Milk
+"Ralphs_6300 Irvine Blvd, Irvine, CA",Coffee-mate Italian Sweet Creme Liquid Coffee Creamer,64 fl oz,6.99,https://www.kroger.com/product/images/medium/front/0005000060535,Milk
