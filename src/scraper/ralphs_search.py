@@ -6,12 +6,12 @@ import csv
 import os.path
 
 ZIP_CODE = '92602'
-# 'Milk', 'Eggs', 'Paper towels', 'Bread', 'Flour', 'Toilet paper', 'Chips', 'fruits', 'Soap', 'Body wash', 'Shampoo', 'Pasta', 'Rice', 'Water', 'Meat', 'Wine', 'Medicine', 'Thermometer', 'Cough medicine', 'veggies', 
-# didn't wor: toilet paper, vegetables 'Pain killers', 
-SEARCH_ITEMS = ['Milk', 'Eggs', 'Paper towels', 'Bread', 'Flour', 'Toilet paper', 'Chips', 'fruits', 'Soap', 'Body wash', 'Shampoo', 'Pasta', 'Rice', 'Water', 'Meat', 'Wine', 'Medicine', 'Thermometer', 'Cough medicine', 'vegetables', 'pain killers']
+# 'Milk', 'Eggs', 'Paper towels', 'Bread', 'Flour', 'Toilet paper', 'Chips', 'fruits', 'Soap', 'Body wash', 'Shampoo', 'Pasta', 'Rice', 'Water','Meat','Wine','Medicine', 'Thermometer', 'Cough medicine', 'vegetables',
+# didn't work: 
+SEARCH_ITEMS = ['Tylenol', 'Advil']
 DISTANCE_THRESHOLD = 7
 
-def processProduct(product, store_name, item):
+def processProduct(product, store_name, item, first):
     name = ''
     size = ''
     price = ''
@@ -38,13 +38,16 @@ def processProduct(product, store_name, item):
     #   price = prices[0].get_attribute('value')
     #   image_urls = product.find_elements_by_class_name('ImageLoader-image')
     #   image_url = image_urls[0].get_attribute('src')
-      
+
       dirsname = 'ralphs_data/' + store_name
       if not os.path.exists(dirsname):
         os.makedirs(dirsname)
 
+
       with open(dirsname + '/' + item + '.csv', 'a') as cvs:
         csv_writer_obj = csv.writer(cvs, delimiter = ',', dialect = 'excel')
+        if first:
+            csv_writer_obj.writerow(['Store', 'Product', 'Size', 'Price', 'Url', 'Category'])
         csv_writer_obj.writerow(['Ralphs_' + store_name, name, size, price, image_url, item])
         # csv_writer_obj.writerow([Ralphs_addr, name, size, price, image_url, category])
     except Exception as e:
@@ -53,14 +56,16 @@ def processProduct(product, store_name, item):
 def processCategory(store_name, item):
     hasNextPage = True
     i = 0
+    first = True
     while hasNextPage:
         productCard = driver.find_elements_by_class_name('ProductCard')
         for product in productCard:
-            processProduct(product, store_name, item)
+            processProduct(product, store_name, item, first)
+            first = False
             # TAKE THIS OUT
-            i += 1
-            if i == 100:
-                return
+            # i += 1
+            # if i == 100:
+            #     return
         nextPageLink = driver.find_elements_by_xpath("//li[@class='Pagination-item Pagination-next']")
         hasNextPage = (len(nextPageLink) > 0)
         if hasNextPage:
@@ -86,7 +91,7 @@ try:
     options.add_argument("--disable-notifications")
     options.add_argument("--no-sandbox")
     options.binary_location = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
-    options.binary_location = '/Users/vikas/Desktop/Google Chrome.app/Contents/MacOS/Google Chrome'
+    # options.binary_location = '/Users/vikas/Desktop/Google Chrome.app/Contents/MacOS/Google Chrome'
     chrome_driver_binary = '/usr/local/bin/chromedriver'
 
 
