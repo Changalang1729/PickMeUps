@@ -3,57 +3,60 @@ from selenium.webdriver.common.keys import Keys
 import time
 import json
 import csv
+import os.path
 
 ZIP_CODE = '92602'
-SEARCH_ITEMS = ['Milk', 'Eggs', 'Paper towels', 'Bread', 'Flour', 'Toilet paper', 'Chips', 'Vegetables', 'Fruits', 'Soap', 'Body wash', 'Shampoo', 'Pasta', 'Rice', 'Water', 'Meat', 'Wine', 'Pain killers', 'Medicine', 'Thermometer', 'Cough medicine']
+# 'Milk', 'Eggs', 'Paper towels', 'Bread', 'Flour', 'Toilet paper', 'Chips', 'fruits', 'Soap', 'Body wash', 'Shampoo', 'Pasta', 'Rice', 'Water', 'Meat', 'Wine', 'Medicine', 'Thermometer', 'Cough medicine', 'veggies', 
+# didn't wor: toilet paper, vegetables 'Pain killers', 
+SEARCH_ITEMS = ['Milk', 'Eggs', 'Paper towels', 'Bread', 'Flour', 'Toilet paper', 'Chips', 'fruits', 'Soap', 'Body wash', 'Shampoo', 'Pasta', 'Rice', 'Water', 'Meat', 'Wine', 'Medicine', 'Thermometer', 'Cough medicine', 'vegetables', 'pain killers']
 DISTANCE_THRESHOLD = 7
 
-def processProduct(product):
-    # names = product.find_elements_by_class_name('ProductCard-name')
-    # if len(names) == 0:
-    #     print('failed on name')
-    # else:
-    #     name = names[0].get_attribute('innerHTML')
-    # sizes = product.find_elements_by_class_name('ProductCard-sellBy-unit')
-    # if len(sizes) == 0:
-    #     print('failed on size')
-    # else:
-    #     size = sizes[0].get_attribute('innerHTML')
-    # prices = product.find_elements_by_class_name('kds-Price')
-    # if len(prices) == 0:
-    #     print('failed on price')
-    # else:
-    #     price = prices[0].get_attribute('value')
-    # image_urls = product.find_elements_by_class_name('ImageLoader-image')
-    # if len(image_urls) == 0:
-    #     print('failed on image')
-    # else:
-    #     image_url = image_urls[0].get_attribute('src')
+def processProduct(product, store_name, item):
+    name = ''
+    size = ''
+    price = ''
+    image_url = ''
+    names = product.find_elements_by_class_name('ProductCard-name')
+    if len(names) != 0:
+        name = names[0].get_attribute('innerHTML')
+    sizes = product.find_elements_by_class_name('ProductCard-sellBy-unit')
+    if len(sizes) != 0:
+        size = sizes[0].get_attribute('innerHTML')
+    prices = product.find_elements_by_class_name('kds-Price')
+    if len(prices) != 0:
+        price = prices[0].get_attribute('value')
+    image_urls = product.find_elements_by_class_name('ImageLoader-image')
+    if len(image_urls) != 0:
+        image_url = image_urls[0].get_attribute('src')
     # print(name)
     try:
-      names = product.find_elements_by_class_name('ProductCard-name')
-      name = names[0].get_attribute('innerHTML')
-      sizes = product.find_elements_by_class_name('ProductCard-sellBy-unit')
-      size = sizes[0].get_attribute('innerHTML')
-      prices = product.find_elements_by_class_name('kds-Price')
-      price = prices[0].get_attribute('value')
-      image_urls = product.find_elements_by_class_name('ImageLoader-image')
-      image_url = image_urls[0].get_attribute('src')
+    #   names = product.find_elements_by_class_name('ProductCard-name')
+    #   name = names[0].get_attribute('innerHTML')
+    #   sizes = product.find_elements_by_class_name('ProductCard-sellBy-unit')
+    #   size = sizes[0].get_attribute('innerHTML')
+    #   prices = product.find_elements_by_class_name('kds-Price')
+    #   price = prices[0].get_attribute('value')
+    #   image_urls = product.find_elements_by_class_name('ImageLoader-image')
+    #   image_url = image_urls[0].get_attribute('src')
+      
+      dirsname = 'ralphs_data/' + store_name
+      if not os.path.exists(dirsname):
+        os.makedirs(dirsname)
 
-      with open('data/1' + '.csv', 'a') as cvs:
+      with open(dirsname + '/' + item + '.csv', 'a') as cvs:
         csv_writer_obj = csv.writer(cvs, delimiter = ',', dialect = 'excel')
-        csv_writer_obj.writerow([name, size, price, image_url])
+        csv_writer_obj.writerow(['Ralphs_' + store_name, name, size, price, image_url, item])
         # csv_writer_obj.writerow([Ralphs_addr, name, size, price, image_url, category])
     except Exception as e:
         print(e)
 
-def processCategory():
+def processCategory(store_name, item):
     hasNextPage = True
     i = 0
     while hasNextPage:
         productCard = driver.find_elements_by_class_name('ProductCard')
         for product in productCard:
-            processProduct(product)
+            processProduct(product, store_name, item)
             # TAKE THIS OUT
             i += 1
             if i == 100:
@@ -71,17 +74,19 @@ def processStore(store_name):
             driver.find_element_by_xpath("//button[@class='kds-Button kds-Button--primaryInverse ClearButton']").click()
         driver.find_element_by_id("searchbar").send_keys(item)
         driver.find_element_by_xpath("//button[@class='kds-Button kds-Button--primaryInverse kds-Button--hasIconOnly kds-FormField-iconButton']").click()
-        processCategory()
+        processCategory(store_name, item)
         first = False
         # TAKE THIS OUT
-        break
+        # break
 
 try:
     url = 'https://www.ralphs.com/'
     options = webdriver.ChromeOptions()
     options.add_argument("--disable-extensions")
     options.add_argument("--disable-notifications")
+    options.add_argument("--no-sandbox")
     options.binary_location = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+    options.binary_location = '/Users/vikas/Desktop/Google Chrome.app/Contents/MacOS/Google Chrome'
     chrome_driver_binary = '/usr/local/bin/chromedriver'
 
 
@@ -92,10 +97,10 @@ try:
     driver.find_element_by_xpath("//button[@class='CurrentModality-button py-4 px-0 text-left']").click()
     driver.find_element_by_xpath("//input[@class='kds-Input kds-Input--compact']").clear()
     driver.find_element_by_xpath("//input[@class='kds-Input kds-Input--compact']").send_keys(ZIP_CODE)
-    # distance = 0
-    # start_shopping_index = 0
     all_stores = set()
     seen_stores = set()
+    # add scraped stores here
+    seen_stores.add('13321 Jamboree Rd, Tustin, CA')
     first = True
     while True:
         if not first:
@@ -145,12 +150,12 @@ try:
         # close the green box
         driver.find_element_by_xpath("//button[@class='kds-Toast-closeButton text-default-900 rounded-full p-0 border-none']").click()
         # PUT THIS BACK!
-        # time.sleep(10)
+        time.sleep(10)
         print('done')
         seen_stores.add(store_address)
         processStore(store_address)
         # TAKE THIS OUT
-        break
+        # break
         first = False
 
 except Exception as e:
