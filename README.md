@@ -6,6 +6,6 @@ This will be the codebase for the website for Pick Me Ups.
 
 
 THINGS DONE:
-1) started the flask template
-
-Changing things to know whether or not this is correct yet
+1) The design of the css page for donate is done. 
+2) The basic scraper is done
+3) Time to finihs the about page and the home page
