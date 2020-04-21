@@ -5,6 +5,7 @@
             <title>PickMeUps</title>
         </head>
         <link rel="stylesheet" href="{{ url_for('static',filename='css/search.css') }}">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <body>
           <div class="hero-image">
             <ul id="navbar-list" class="list-inline">
@@ -19,5 +20,48 @@
               <h1 class ="title" style="margin-bottom:5%">Search Groceries</h1>
             </div>
           </div>
+          <div style="text-align:center"
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106235.57470580857!2d-117.84342860192271!3d33.68664483342935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcdd0e689140e3%3A0xa77ab575604a9a39!2sIrvine%2C%20CA!5e0!3m2!1sen!2sus!4v1587465810891!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
+          <!-- <div class="search-container">
+            <form action='/search' method="POST">
+              <input type="text" placeholder="Search.." name="search">
+              <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+          </div> -->
+          <div style="text-align:center">
+            <form action='/search' id="form-anchor" method="POST">
+              <input type="text" name="search">
+              <input type="submit" value="Go">
+            </form>
+          </div>
+          {% if data %}
+          <div class="row">
+            {% for item in data %}
+            <div class="column left"  ><a class="image-link" style="text-align: center" target="_blank" href="https://www.providence.org/donate/mission-hospital-foundation/make-a-donation/covid-19-donation"><img src="{{item[2]}}" height=30%, width=30%></a></div>
+            <div class="column right" >
+              <div class="inside">
+                <b> <span style='font-size:50px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
+                <h3 class="h1">{{item[0]}} </h3>
+                <br>
+                <p class="p1">{{item[1]}}</p>
+              </div>
+            </div>
+            {% endfor %}
+          {% endif %}
+          <!-- <div id="map"></div>
+          <script>
+            // Initialize and add the map
+            function initMap() {
+              // The location of Uluru
+              var uluru = {lat: -25.344, lng: 131.036};
+              // The map, centered at Uluru
+              var map = new google.maps.Map(
+                  document.getElementById('map'), {zoom: 4, center: uluru});
+              // The marker, positioned at Uluru
+              var marker = new google.maps.Marker({position: uluru, map: map});
+            }
+          </script>
+          <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script> -->
         </body>
 </html>
