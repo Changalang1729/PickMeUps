@@ -78,8 +78,8 @@ a.image-link {
 .hero-text {
   text-align: left;
   position: absolute;
-  top: 70%;
-  left: 32.5%;
+  top: 75%;
+  left: 27.5%;
   transform: translate(-50%, -50%);
   color: white;
 }
