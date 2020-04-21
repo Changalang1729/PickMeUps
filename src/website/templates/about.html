@@ -8,33 +8,40 @@
          <body>
            <div class="hero-image">
              <ul id="navbar-list" class="list-inline">
-               <!-- <li><a href="{{ url_for('stats') }}">Stats</a></li> -->
                <li class="active"><a href="{{ url_for('about') }}">About</a></li>
                <li><a href="{{ url_for('donate') }}">Donate</a></li>
                <li><a href="{{ url_for('search') }}">Search</a></li>
                <li><a href="{{ url_for('home') }}">Home</a></li>
              </ul>
-             <div class="hero-text">
-               <b> <span style='font-size:90px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
+            <!--  <div class="hero-text"> -->
+              <!--  <b> <span style='font-size:90px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b> -->
                <h1 class ="title" style="margin-bottom:5%">About Us</h1>
              </div>
            </div>
-         <div>
-             <h3> Why are we doing this? </h3>
-             <p> The main purpose of this website is to help limit the spread of corona in our neighborhood communities.
-             By allowing people to check what's available at stores nearby, we're able to limit the time that we spend outside and
-             our chances of contracting or spreading the diseases. Additionally, by reaching out to some Harvard Medical Students,
-             we were able to provide more concrete facts to demystify the enigmatic disease.
-             </p>
-
-         </div>
-         <div>
-             <h3> Showing that the world does care </h3>
-             <p> With coronavirus, there has been an extreme uptick in race-related crimes. With President Trump previously calling it the
-             Chinese virus, it has grown increasingly difficult for us as a community to not persecute Asian Americans. Here, however, we have
-             the ability to show that humanity does have hope — that we do care. With our donate sheet and requests sheet, we can come together
-             as a community and help each other in difficult time.
-             </p>
-        </div>
+        <div class="row">
+             <div class="column left" ><a class="image-link" style="text-align: center" target="_blank"><img src="{{ url_for('static', filename='images/ev.JPG') }}" height=50%, width=50%></a></div>
+             <div class="column right" >
+               <div class="inside">
+                 <b> <span style='font-size:50px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
+                 <h3 class="h1" >Eric and Vikas </h3>
+                 <br>
+                 <br>
+                 <p class = "p1">Eric Chang and Vikas Munukutla are currently seniors at Yale University and Stanford University respectively. Eric is majoring in computer science and chemistry, and Vikas is a computer science major. Both went to Beckman High School in Tustin, where they spent most of their time getting into trouble, eating junk food, and participating in buffoonery.</p>
+                 <br>
+                 <p class = "p1"> If you're interested in reaching out, we've also included  some social media plugs below. </p>
+                 <br> 
+                 <p class = "p1"> 
+  					Eric's Insta: the_changalang1729 <br>
+  					Vikas's Insta: vikasmunukutla <br> 
+  					Eric's LinkedIn: <a> https://www.linkedin.com/in/echang1729/ </a> <br>
+  					Vikas's LinkedIn: <a> https://www.linkedin.com/in/vikas-munukutla-54b981138/ </a>
+				</p>
+				
+<!--                  <div id="outer">
+				  <div class="inner"><button class="msgBtn" onClick="return false;" >Save</button></div>
+				  <div class="inner"><button class="msgBtn2" onClick="return false;">Publish</button></div>
+				</div> -->
+              </div>
+            </div>
    </body>
      </html>

@@ -148,12 +148,12 @@ a.image-link {
  color: gray;
 }
 .subtitle{
- font-family: "Times New Roman";
- font-size: 22px;
+ font-family: "DINNextLTPro-Regular";
+ font-size: 30px;
  font-style: normal;
  font-variant: normal;
  font-weight: 700;
- line-height: 24.4px;
+ line-height: 32.4px;
 }
 
 @media screen and (max-width: 600px) {

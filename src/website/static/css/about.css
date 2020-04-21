@@ -30,7 +30,7 @@ a.image-link {
 
 /* The hero image */
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/static/images/us.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/static/images/about.jpg');
 
   /* Set a specific height */
   height: 100%;
@@ -46,8 +46,8 @@ a.image-link {
 .hero-text {
   text-align: left;
   position: absolute;
-  top: 70%;
-  left: 32.5%;
+  top: 80%;
+  left: 50%;
   transform: translate(-50%, -50%);
   color: white;
 }
@@ -154,6 +154,16 @@ a.image-link {
  font-variant: normal;
  font-weight: 700;
  line-height: 24.4px;
+}
+
+.outer{
+    width:100%;
+    text-align: center;
+}
+
+.inner{
+    display: inline-block;
+    background: url("/static/images/insta.png");
 }
 
 @media screen and (max-width: 600px) {
