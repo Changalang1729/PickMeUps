@@ -20,96 +20,58 @@
               <h1 class ="subtitle">Bringing the Community Together</h1>
             </div>
           </div>
-            <!-- <div class = "header"> </div> -->
-            <!-- <div style="border: thick solid black" >
-                <h1> PickMeUps </h1>
-                <p> Bring the Community Together </h3>
-            </div> -->
-
-
-            <!-- <div class = "row" style="border: thick solid black">
-                <div class= "column" >
-                    <h3> Covid19 </h3>
-                    <p> pic </p>
-                </div>
-
-                <div class= "column" >
-                    <h3> Text </h3>
-                    <p> What Covid 19 really is... </p>
-
-                </div>
-                <br style="clear:both;"/>
-            </div>
-
-            <div style="border: thick solid black">
-                <h3> Aim of Our Site </h3>
-                <p> We want to help the world </h3>
-            </div>
-
-            <div style="border: thick solid black">
-                <h3> Search
-            </div>
-
-            <div style="border: thick solid black">
-                <h3> Donate
-            </div>
-
-            <div style="border: thick solid black">
-                <h3> Stats
-            </div> -->
             <div class="row">
               <div class="column left" ><a class="image-link" style="text-align: center" target="_blank" href="https://lookinside.kaiserpermanente.org/donate-ppe/"><img src="{{ url_for('static', filename='images/home_images/maps.jpg') }}" height=60%, width=60%></a></div>
               <div class="column right" >
                 <div class="inside">
                   <b> <span style='font-size:50px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
                   <h3 class="h1" >Search </h3>
-                  <p class = "p1">Kaiser Permanente is requesting donations of personal protective equipment and even homemade masks. It has a national donation network for any donations coming in, so please direct any donation offers to KPCOVID-19Donations@kp.org. Details of what they are requesting and the donation process are described in the link.</p>
                   <br>
-                  <p class="p1"> <b> Link: </b> <a target="_blank" href="https://lookinside.kaiserpermanente.org/donate-ppe/">https://lookinside.kaiserpermanente.org/donate-ppe/</a></p>
+                  <br>
+                  <p class = "p1">Search allows users to look up necessities from supermarkets efficiently. It returns applicable results from most grocery stores within a 7 mile radius. Effectively then, each person minimizes the need to shop at multiple stores for their essentials — optimizing for social distancing and convenience. Although it only currently supports Irvine grocery stores that have websites, we expect to expand its functionality to most large supermarket chains in all areas.</p>
+                  <br>
+                  <br>
+                 <p class = "p1" ><a class="button" href="{{url_for('search')}}"> Search </a> </p>
                </div>
              </div>
              <div class="column left"><a class="image-link" style="text-align: center" target="_blank" href="https://start.emailopen.com/public1/surveyResponse1.aspx?id1=2732&id2=Kz2i9BYj4a8T7Ec"><img src="{{ url_for('static', filename='images/home_images/donate.png') }}" height=60%, width=60%></a></div>
              <div class="column right">
                <div class="inside">
                  <b> <span style='font-size:50px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
-                 <h3 class="h1">UCI Medical Center </h1>
-                 <h4 class="h4">Address: 101 The City Drive South, Orange, CA 92868</h4>
-                 <p class="p1">UCI Medical Center is requesting medical supplies and equipment. In order to donate, please fill out the questionnaire and the UCI Health team will follow up with a response upon initial review.</p>
+                 <h3 class="h1">Donate </h1>
                  <br>
-                 <p class="p1"> <b> Link: </b> <a target="_blank" href="https://start.emailopen.com/public1/surveyResponse1.aspx?id1=2732&id2=Kz2i9BYj4a8T7Ec">https://start.emailopen.com/public1/surveyResponse1.aspx?id1=2732&id2=Kz2i9BYj4a8T7Ec</a></p>
+                 <br>
+                 <p class="p1">Donate encourages all within the community to support our healthcare workers and the ill. With a shortage of ventilators and PPE for our healthcare workers, we strain our first line of defense and minimize the survival rates of those with COVID. Here, more than ever, we need to show our compassion for our community. </p>
+                 <br>
+                 <br>
+                 <p class = "p1" > <a class="button" href="{{url_for('donate')}}"> Donate </a> </p>
+                 <!-- <p class="p1"> <b> Link: </b> <a target="_blank" href="https://start.emailopen.com/public1/surveyResponse1.aspx?id1=2732&id2=Kz2i9BYj4a8T7Ec">https://start.emailopen.com/public1/surveyResponse1.aspx?id1=2732&id2=Kz2i9BYj4a8T7Ec</a></p> -->
                </div>
              </div>
              <div class="column left" ><a class="image-link" style="text-align: center" target="_blank" href="https://www.memorialcare.org/donations"><img src="{{ url_for('static', filename='images/home_images/stats.jpg') }}" height=60%, width=60%></a></div>
              <div class="column right" >
                <div class="inside">
                  <b> <span style='font-size:50px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
-                 <h3 class="h1">MemorialCare </h1>
-                 <h4 class="h4">Address: 18111 Brookhurst Street, Fountain Valley, CA 92708</h4>
-                 <p class="p1">MemorialCare Orange Coast Medical Center is requesting various unused medical supplies. To make a supply donation, fill out the form in the link. To make a monetary donation, scroll to the bottom to the heading labeled ‘Make an Online Monetary Donation’.</p>
+                 <h3 class="h1">About </h1>
+                  <br>
+                  <br>
+                 <p class="p1"> The developers of this website aim to contribute in any fashion they can to help the community — if you have any questions or suggestions on how to improve the site or its functionality, please do not hesitate to reach out to vikas9.m@gmail.com. If you want to learn more about us, click below to look at our backgrounds! *We're pretty boring though, so don't expect anything too special*. </p>
                  <br>
-                 <p class="p1"> <b> Link: </b> <a target="_blank" href="https://www.memorialcare.org/donations">https://www.memorialcare.org/donations</a></p>
+                 <br>
+                 <p class = "p1" > <a class="button" href="{{url_for('about')}}"> About </a> </p>
                </div>
              </div>
              <div class="column left"  ><a class="image-link" style="text-align: center" target="_blank" href="https://www.providence.org/donate/mission-hospital-foundation/make-a-donation/covid-19-donation"><img src="{{ url_for('static', filename='images/sjh.png') }}" height=50%, width=50%></a></div>
              <div class="column right" >
                <div class="inside">
                  <b> <span style='font-size:50px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
-                 <h3 class="h1">Mission Hospital </h3>
-                 <h4 class="h4" >Address: 27800 Medical Center Road, Medical Office Building 3 </h4>
-                 <p class="p1">Mission Hospital Foundation is requesting donations of money or medical supplies, specifically new and unused donations of 3M, N95 and Surgical Masks, Disposable/Protective Gloves, Protective/Safety Goggles,and Hand Sanitizer. Please contact the Foundation at (949) 364-7783 or MissionFoundation@stjoe.org prior to delivery, and staff will meet donors outside the given address from Monday-Friday, 8:30 a.m. - 4:30 p.m.</p>
+                 <h3 class="h1">Coming Soon </h3>
                  <br>
-                 <p class="p1"> <b> Link: </b> <a target="_blank" href="https://www.providence.org/donate/mission-hospital-foundation/make-a-donation/covid-19-donation">https://www.providence.org/donate/mission-hospital-foundation/make-a-donation/covid-19-donation</a></p>
-               </div>
-             </div>
-             <div class="column left" ><a class="image-link" style="text-align: center" target="blank" href="https://giving.hoag.org/COVID19"><img src="{{ url_for('static', filename='images/hoag2.png') }}" height=60%, width=60%></a></div>
-             <div class="column right" >
-               <div class="inside">
-                 <b> <span style='font-size:50px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
-                 <h3 class="h1" >Hoag Hospital </h3>
-                 <h4 class="h4" >Address: 6200 Sand Canyon Ave., Irvine, CA 92618 </h4>
-                 <p class="p1">Hoag Hospital Irvine is requesting financial contributions to <a target="_blank" href="https://giving.hoag.org/COVID19">https://giving.hoag.org/COVID19</a> and donations of unused supplies and other essential items to <a target="_blank" href="https://covid19.hoag.org/donations/">https://covid19.hoag.org/donations/</a>.</p>
                  <br>
-                 <p class="p1"> <b> Links: </b> <a target="_blank" href="https://covid19.hoag.org/donations/">https://covid19.hoag.org/donations/</a>, <a target="blank" href="https://giving.hoag.org/COVID19">https://giving.hoag.org/COVID19</a></p>
+                 <p class="p1">We hope to eventually support different regions such as Sugarlands Texas, New Haven Connecticut, Palo Alto California, and more! We also aim to bring more features onto our site, such as the ability to create a matching system: community members who are high risk individuals can opt to have volunteers bring groceries to their door, etc. We also hope to partner with other sites to provide the most up to date information possible.</p>
+                 <br>
+                 <br>
+                 <!-- <p class="p1"> <b> Link: </b> <a target="_blank" href="https://www.providence.org/donate/mission-hospital-foundation/make-a-donation/covid-19-donation">https://www.providence.org/donate/mission-hospital-foundation/make-a-donation/covid-19-donation</a></p> -->
                </div>
              </div>
            </div>
