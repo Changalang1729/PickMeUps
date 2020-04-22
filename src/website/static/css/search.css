@@ -100,8 +100,9 @@ a.image-link {
 
 .row {
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 15% 15% 15% 15% 15%;
   grid-auto-rows: 1fr;
+  justify-content: center
 }
 
 .left {
@@ -150,8 +151,11 @@ a.image-link {
   font-weight: 700;
   line-height: 32.4px;
   margin-bottom: 1.5%;
+  margin-left: 15%;
+  margin-top: 5%;
   color: #151B54;
 }
+
 .h2 {
  font-family: "Brush Script MT", cursive;
  font-size: 26px;

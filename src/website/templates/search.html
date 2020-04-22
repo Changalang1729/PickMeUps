@@ -9,7 +9,6 @@
         <body>
           <div class="hero-image">
             <ul id="navbar-list" class="list-inline">
-              <!-- <li><a href="{{ url_for('stats') }}">Stats</a></li> -->
               <li><a href="{{ url_for('about') }}">About</a></li>
               <li><a href="{{ url_for('donate') }}">Donate</a></li>
               <li class="active"><a href="{{ url_for('search') }}">Search</a></li>
@@ -23,45 +22,55 @@
           <div style="text-align:center"
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106235.57470580857!2d-117.84342860192271!3d33.68664483342935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcdd0e689140e3%3A0xa77ab575604a9a39!2sIrvine%2C%20CA!5e0!3m2!1sen!2sus!4v1587465810891!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
-          <!-- <div class="search-container">
-            <form action='/search' method="POST">
-              <input type="text" placeholder="Search.." name="search">
-              <button type="submit"><i class="fa fa-search"></i></button>
-            </form>
-          </div> -->
           <div style="text-align:center">
-            <form action='/search' id="form-anchor" method="POST">
+            <form action='/search' id="form-anchor" style="background:#520000" method="POST">
               <input type="text" name="search">
               <input type="submit" value="Go">
             </form>
           </div>
-          {% if data %}
+          {% if data1 %}
+          <h3 class="h1">Ralphs - 13321 Jamboree Rd, Tustin, CA</h3>
           <div class="row">
-            {% for item in data %}
-            <div class="column left"  ><a class="image-link" style="text-align: center" target="_blank" href="https://www.providence.org/donate/mission-hospital-foundation/make-a-donation/covid-19-donation"><img src="{{item[2]}}" height=30%, width=30%></a></div>
-            <div class="column right" >
-              <div class="inside">
-                <b> <span style='font-size:50px; color: #66CDAA; margin-bottom: 8px;'>&#9473;</span> </b>
-                <h3 class="h1">{{item[0]}} </h3>
-                <br>
-                <p class="p1">{{item[1]}}</p>
+            {% for item1 in data1 %}
+            <div class="column left" >
+              <div>
+                <img src="{{item1[2]}}" height=70%, width=70%>
+                <p class="p1">{{item1[0]}}</p>
+                <h4 class="h4">{{item1[1]}}</p>
               </div>
             </div>
             {% endfor %}
+          </div>
           {% endif %}
-          <!-- <div id="map"></div>
-          <script>
-            // Initialize and add the map
-            function initMap() {
-              // The location of Uluru
-              var uluru = {lat: -25.344, lng: 131.036};
-              // The map, centered at Uluru
-              var map = new google.maps.Map(
-                  document.getElementById('map'), {zoom: 4, center: uluru});
-              // The marker, positioned at Uluru
-              var marker = new google.maps.Marker({position: uluru, map: map});
-            }
-          </script>
-          <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script> -->
+
+          {% if data2 %}
+          <h3 class="h1">Ralphs - 14400 Culver Dr, Irvine, CA</h3>
+          <div class="row">
+            {% for item2 in data2 %}
+            <div class="column left">
+              <div>
+                <img src="{{item2[2]}}" height=70%, width=70%>
+                <p class="p1">{{item2[0]}}</p>
+                <h4 class="h4">{{item2[1]}}</p>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          {% if data3 %}
+          <h3 class="h1" >Ralphs - 6300 Irvine Blvd, Irvine, CA</h3>
+          <div class="row">
+            {% for item3 in data3 %}
+            <div class="column left">
+              <div>
+                <img src="{{item3[2]}}" height=70%, width=70%>
+                <p class="p1">{{item3[0]}}</p>
+                <h4 class="h4">{{item3[1]}}</p>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+          {% endif %}
         </body>
 </html>

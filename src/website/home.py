@@ -13,15 +13,15 @@ def file_name_gen(directoryPath):
         result.append(files)
     return result
 
-def results_adder(query):
-    files = file_name_gen('../scraper/ralphs_data/13321 Jamboree Rd, Tustin, CA/')
+def results_adder(query, filename):
+    files = file_name_gen(filename)
     files.remove
     results = []
     for index in range(0, len(files)):
         df = pd.read_csv(files[index], encoding="latin1")
         for i in range(0, len(df)):
             # MODIFY/REMOVE
-            if len(results) == 10:
+            if len(results) == 30:
                 return results
             print(files[index])
             if(query.lower() in (df["Category"][0]).lower()):
@@ -53,10 +53,10 @@ def donate():
 def search():
     if request.method == 'POST':
         item_name = request.form['search']
-        print(item_name)
-        data=results_adder(item_name)
-        print(data)
-        return render_template("search.html", data=data)
+        data1 = results_adder(item_name, '../scraper/ralphs_data/13321 Jamboree Rd, Tustin, CA/')
+        data2 = results_adder(item_name, '../scraper/ralphs_data/14400 Culver Dr, Irvine, CA/')
+        data3 = results_adder(item_name, '../scraper/ralphs_data/6300 Irvine Blvd, Irvine, CA/')
+        return render_template("search.html", data1=data1, data2=data2, data3=data3)
 
     return render_template("search.html")
 
